@@ -56,7 +56,7 @@ I received the B.Sc. degree in electrical engineering and automation, in 2020, f
 **IoT platform harmonic emission**
 
 <video width="100%" controls>
-  <source src="images/IoTplatform.mp4 type="video/mp4">
+  <source src="images/IoTplatform.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
