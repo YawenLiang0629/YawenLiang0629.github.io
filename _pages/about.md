@@ -44,6 +44,27 @@ I received the B.Sc. degree in electrical engineering and automation, in 2020, f
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">Project</div>
+      <img src='images/500x300.png' alt="IoT Platform" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+  
+**IoT platform harmonic emission**
+
+<video width="100%" controls>
+  <source src="/assets/video/IoTplatform.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+- This project focuses on the harmonic emissions introduced by an IoT-based monitoring platform integrated into electric distribution systems.
+</div>
+</div>
+
+
 # 🎖 Honors and Awards
 - *2025.06* 2nd Place, IEEE ITEC+EATS Student Design Competition: Design the high voltage/high-power distribution system for a regional (90 passenger) fully electric aircraft 
 - *2025.02* 3rd Place, IEEE VTS Challenge: Innovations in vehicle propulsion technologies to address climate change
