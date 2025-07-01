@@ -40,17 +40,20 @@ I received the B.Sc. degree in electrical engineering and automation, in 2020, f
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
-# 💬 Invited Talks
+# 💬 Research Experience
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.06* 2nd Place, IEEE ITEC+EATS Student Design Competition: Design the high voltage/high-power distribution system for a regional (90 passenger) fully electric aircraft 
+- *2025.02* 3rd Place, IEEE VTS Challenge: Innovations in vehicle propulsion technologies to address climate change
+
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.07 - 2026.01 (now)*, Ph.D., Battery and Power Electronics, Delft University of Technology, The Netherlands.
+- *2020.09 - 2022.07*, M.Sc., Electrical Power Engineering, Delft University of Technology, The Netherlands.
+- *2021.09 - 2022.02*, Exchange Student, ETH Zürich, Switzerland.
+- *2016.09 - 2020.06*, B.Sc., Electrical Engineering, Sichuan University, China.
 
 
 # 💻 Internships
