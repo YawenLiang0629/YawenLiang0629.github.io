@@ -56,14 +56,13 @@ I received the B.Sc. degree in electrical engineering and automation, in 2020, f
 **IoT platform harmonic emission**
 
 <video width="100%" controls>
-  <source src="/assets/video/IoTplatform.mp4" type="video/mp4">
+  <source src="images/IoTplatform.mp4 type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
 - This project focuses on the harmonic emissions introduced by an IoT-based monitoring platform integrated into electric distribution systems.
 </div>
 </div>
-
 
 # 🎖 Honors and Awards
 - *2025.06* 2nd Place, IEEE ITEC+EATS Student Design Competition: Design the high voltage/high-power distribution system for a regional (90 passenger) fully electric aircraft 
