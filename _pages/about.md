@@ -35,19 +35,25 @@ I received the B.Sc. degree in electrical engineering and automation, in 2020, f
 
 Electric aircraft technology has gained considerable attention and is rapidly developing to mitigate the environmental impact of air transportation and move toward more sustainable modes. Nevertheless, the unique characteristics of electric aircraft pose significant challenges for the charging infrastructure, which must be effectively addressed to facilitate the growth of electric aircraft. This article provides a comprehensive review of the latest developments and future trends in electric aviation, which covers electric aircraft, battery technology, and electric aircraft charging systems. This article also surveys the possible charging system architectures that can be employed for electric aircraft charging. Various power electronic converter topologies that are suitable for future electric aircraft DC fast chargers are presented. This article concludes by identifying future challenges in the path toward charging electric aircraft and discusses potential solutions to these challenges.
 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Charging technology of electric aircraft</div><img src='images/Charger_overview.png' alt="sym" width="75%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Charging Technology for Electric Aircraft: State of the Art, Trends, and Challenges](https://ieeexplore-ieee-org.tudelft.idm.oclc.org/document/10319783)
-
-**Yawen Liang**, Gautham Ram Chandra Mouli, Pavol Bauer
-
-Electric aircraft technology has gained considerable attention and is rapidly developing to mitigate the environmental impact of air transportation and move toward more sustainable modes. Nevertheless, the unique characteristics of electric aircraft pose significant challenges for the charging infrastructure, which must be effectively addressed to facilitate the growth of electric aircraft. This article provides a comprehensive review of the latest developments and future trends in electric aviation, which covers electric aircraft, battery technology, and electric aircraft charging systems. This article also surveys the possible charging system architectures that can be employed for electric aircraft charging. Various power electronic converter topologies that are suitable for future electric aircraft DC fast chargers are presented. This article concludes by identifying future challenges in the path toward charging electric aircraft and discusses potential solutions to these challenges.
-
 </div>
 </div>
 
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">Battery pack optimization for electric aircraft</div>
+      <img src='images/Battery_pack.png' alt="battery" width="75%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+[Optimization of a Liquid-Cooled Lithium-Ion Battery Pack for Electric Aircraft Based on an Integrated Electro-Thermal-Aging Pack Model](https://ieeexplore.ieee.org/document/xxxxxxx)
+
+**Yawen Liang**, Weiming Luo, Gautham Ram Chandra Mouli, Pavol Bauer
+
+This study develops an integrated electro-thermal-aging model to optimize a liquid-cooled lithium-ion battery pack for electric aircraft. The proposed approach enhances thermal uniformity and lifetime performance, ultimately improving energy density and reducing overall weight.
+
+</div>
+</div>
 
 # 💬 Research Experience
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
