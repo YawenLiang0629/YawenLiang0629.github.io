@@ -33,7 +33,7 @@ I received the B.Sc. degree in electrical engineering and automation, in 2020, f
 
 **Yawen Liang**, Gautham Ram Chandra Mouli, Pavol Bauer
 
-Electric aircraft technology has gained considerable attention and is rapidly developing to mitigate the environmental impact of air transportation and move toward more sustainable modes. Nevertheless, the unique characteristics of electric aircraft pose significant challenges for the charging infrastructure, which must be effectively addressed to facilitate the growth of electric aircraft. This article provides a comprehensive review of the latest developments and future trends in electric aviation, which covers electric aircraft, battery technology, and electric aircraft charging systems. This article also surveys the possible charging system architectures that can be employed for electric aircraft charging. Various power electronic converter topologies that are suitable for future electric aircraft DC fast chargers are presented. This article concludes by identifying future challenges in the path toward charging electric aircraft and discusses potential solutions to these challenges.
+*Electric aircraft technology has gained considerable attention and is rapidly developing to mitigate the environmental impact of air transportation and move toward more sustainable modes. Nevertheless, the unique characteristics of electric aircraft pose significant challenges for the charging infrastructure, which must be effectively addressed to facilitate the growth of electric aircraft. This article provides a comprehensive review of the latest developments and future trends in electric aviation, which covers electric aircraft, battery technology, and electric aircraft charging systems. This article also surveys the possible charging system architectures that can be employed for electric aircraft charging. Various power electronic converter topologies that are suitable for future electric aircraft DC fast chargers are presented. This article concludes by identifying future challenges in the path toward charging electric aircraft and discusses potential solutions to these challenges.*
 
 </div>
 </div>
@@ -42,7 +42,7 @@ Electric aircraft technology has gained considerable attention and is rapidly de
   <div class='paper-box-image'>
     <div>
       <div class="badge">Battery pack optimization for electric aircraft</div>
-      <img src='images/Battery_pack.png' alt="battery" width="75%">
+      <img src='images/BTMS_Optimization.png' alt="battery" width="75%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
@@ -50,7 +50,10 @@ Electric aircraft technology has gained considerable attention and is rapidly de
 
 **Yawen Liang**, Weiming Luo, Gautham Ram Chandra Mouli, Pavol Bauer
 
-This study develops an integrated electro-thermal-aging model to optimize a liquid-cooled lithium-ion battery pack for electric aircraft. The proposed approach enhances thermal uniformity and lifetime performance, ultimately improving energy density and reducing overall weight.
+<p><em>
+Electric aircraft represent a promising low-emission alternative to fuel-powered aviation. As the energy source, the battery pack must guarantee key performance metrics such as energy density, power density, lifetime, and safety. Among these, energy density is particularly critical as it directly impacts the range and payload capacity. Additionally, the battery thermal management system (BTMS) of the battery pack is essential to maintain safety, efficiency, and lifetime. Hence, to design a battery pack with improved energy density and optimized thermal and aging performance, a complete electro-thermal-aging (ETA) model at both cell and pack levels is developed to predict pack behavior under operational conditions. Simulations demonstrate that the proposed model achieves an accurate thermal prediction within 0.87 °C during an example all-electric aircraft (AEA) mission profile. Optimization based on the proposed model is conducted, focusing on geometric configurations of the battery pack and coolant flow parameters, including channel wall thickness (L<sub>Al</sub>), inlet width (W<sub>cl</sub>), cell spacing (D<sub>cell</sub>), package wall thickness (L<sub>enc</sub>), inlet flow temperature (T<sub>cl,in</sub>), and flow velocity (U<sub>cl,in</sub>). An optimized liquid-cooled battery module using Samsung 18650-35E cells is designed with [L<sub>Al</sub>, W<sub>cl</sub>, D<sub>cell</sub>, L<sub>enc</sub>] = [0.4, 1.6, 20, 0.5] mm, T<sub>cl,in</sub> = 35 °C, and U<sub>cl,in</sub> = 0.05 m s<sup>−1</sup> during cruise and 0.02 m s<sup>−1</sup> during takeoff, climb, and descent. This configuration achieves a maximum temperature of 41.76 °C, and a maximum cell-to-cell temperature difference of 3.11 °C, improving thermal uniformity. The lifetime performance also demonstrates a 5.51% improvement in state-of-health (SOH) after 180 cycles. Based on the module-to-pack structure analysis, the battery pack exhibits energy densities of 227.01 W h kg<sup>−1</sup> gravimetrically and 353.67 W h L<sup>−1</sup> volumetrically. This study facilitates the guideline for compact and lightweight liquid-cooled battery pack design with improved thermal and aging performance for AEA applications.
+</em></p>
+
 
 </div>
 </div>
