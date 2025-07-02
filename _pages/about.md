@@ -21,8 +21,12 @@ redirect_from:
 
 I received the B.Sc. degree in electrical engineering and automation, in 2020, from Sichuan University, Chengdu, China, and the M.Sc. (cum laude) degree in electrical power engineering, in 2022, from the Delft University of Technology, Delft, The Netherlands, where she is currently working toward the Ph.D. degree in electrical engineering with DC Systems, Energy Conversion and Storage (DCE&S) group. Her research interests include battery systems and the power electronics interface for electric aircraft.
 
-# 🔥 News
-- *2025.06*: &nbsp;🎉🎉 One paper is accepted by IEEE Transactions on Transportation Electrofication
+# News
+- *2025.06*: &nbsp;🎉🎉 One paper is accepted by IEEE Transactions on Transportation Electrification
+- *2025.05*: &nbsp;🎉🎉 One paper is accepted by ECCE Europe 2025
+- *2024.07*: &nbsp;🎉🎉 One paper is accepted by IEEE Transactions on Transportation Electrification
+- *2024.03*: &nbsp;🎉🎉 One paper is accepted by ITEC USA 2024
+- *2023.11*: &nbsp;🎉🎉 One paper is accepted by IEEE Transactions on Transportation Electrification
 
 # 📝 Publications 
 
