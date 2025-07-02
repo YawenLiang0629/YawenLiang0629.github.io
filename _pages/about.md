@@ -153,12 +153,13 @@ The aviation industry, responsible for over 2% of energy-related CO<sub>2</sub> 
   
   - IoT platform demonstration video:
   
-    <div style="margin-top: 10px;">
-      <video width="60%" controls>
-        <source src="images/IoTplatform.mp4" type="video/mp4">
-        Your browser does not support the video tag.
-      </video>
-    </div>
+  <div style="margin-top: 10px; text-align: center;">
+    <video width="60%" controls>
+      <source src="images/IoTplatform.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+  </div>
+
     
   - Experiment setup
   <p align="center">
