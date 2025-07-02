@@ -49,7 +49,7 @@ I received the B.Sc. degree in electrical engineering and automation, in 2020, f
   <div class='paper-box-image'>
     <div>
       <div class="badge">Charging demand prediction for electric aircraft</div>
-      <img src='images/Charging_Demand_Prediction.png' alt="battery" width="100%">
+      <img src='images/ChargerBig.png' alt="battery" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
@@ -71,7 +71,7 @@ This article presents a study on forecasting the charging demand for future smal
   <div class='paper-box-image'>
     <div>
       <div class="badge">BTMS optimization for electric aircraft</div>
-      <img src='images/BTMS_Optimization.png' alt="battery" width="100%">
+      <img src='images/BatteryPackBig.png' alt="battery" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
@@ -94,7 +94,7 @@ To design a battery pack with improved energy density and optimized thermal and 
   <div class='paper-box-image'>
     <div>
       <div class="badge">IECON 2022</div>
-      <img src='images/IECON_image.png' alt="IECON" width="100%">
+      <img src='images/ControlDiagram_TUD2.png' alt="IECON" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
@@ -113,7 +113,7 @@ In emerging fast-charging stations, DC fast chargers (DCFCs) are employed, which
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ITEC 2024</div><img src='images/ITEC2025_image.png' alt="ITEC" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ITEC 2024</div><img src='images/ReconfigurableBPBig.png' alt="ITEC" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Hybrid Reconfigurable Battery Pack for All-Electric Aircraft: Synergizing High-Specific-Energy and Power Battery Types](https://ieeexplore.ieee.org/document/10598954)
