@@ -92,7 +92,7 @@ Electric aircraft (EA) is a promising alternative to conventional fuel-based air
   - Validated the proposed model through simulation and experiment.
   - Built an IoT platform for harmonic calculation supporting device-to-cloud communication, including a front-end interface and a back-end for data handling and messaging.
   
-  - <strong>IoT platform demonstration video:</strong>
+  - IoT platform demonstration video:
   
     <div style="margin-top: 10px;">
       <video width="60%" controls>
@@ -101,6 +101,18 @@ Electric aircraft (EA) is a promising alternative to conventional fuel-based air
       </video>
     </div>
 
+- *2021.09-2022.02*, Semester Project: *Investigation of Switching Loss Measurements of SiC MOSFETs*  
+  Supervised by **Anliang Hu** and **Prof. Dr. Jürgen Biela**
+
+  -  Modified the traditional double-pulse test circuit to enable zero voltage switching (ZVS) turn-on evaluation
+  - Developed and implemented a ZVS control scheme using FPGA
+  - Conducted experimental measurements and analysis of switching losses
+  
+  - Experiment setup
+<figure>
+  <img src="images/ExperimentSetup_ETHz.png" alt="Experimental Setup at ETH Zürich" width="70%">
+  <figcaption>Figure: Experimental setup for switching losses measurement.</figcaption>
+</figure>
 
 # 🎖 Honors and Awards
 - *2025.06* 2nd Place, IEEE ITEC+EATS Student Design Competition: Design the high voltage/high-power distribution system for a regional (90 passenger) fully electric aircraft 
