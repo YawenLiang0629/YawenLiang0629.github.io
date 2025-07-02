@@ -100,14 +100,15 @@ Electric aircraft (EA) is a promising alternative to conventional fuel-based air
         Your browser does not support the video tag.
       </video>
     </div>
-
-   - Experiment setup
+    
+  - Experiment setup
   <p align="center">
   <img src="images/ExperimentSetup_TUD.png" alt="Experimental Setup at TU Delft" width="60%">
-</p>
-   - Control block diagram
+  </p>
+  
+  - Control block diagram
   <p align="center">
-  <img src="images/ControlDiagram_TUD.png" alt="AFE of EV charger with the control block diagram" width="60%">
+  <img src="images/ControlDiagram_TUD.png" alt="AFE of EV charger with the control block diagram" width="40%">
 </p>
 
 
