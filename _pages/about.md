@@ -104,14 +104,13 @@ Electric aircraft (EA) is a promising alternative to conventional fuel-based air
 
 # 🎖 Honors and Awards
 - *2025.06* 2nd Place, IEEE ITEC+EATS Student Design Competition: Design the high voltage/high-power distribution system for a regional (90 passenger) fully electric aircraft 
-- *2025.02* 3rd Place, [IEEE VTS Challenge](https://vtsociety.org/membership/call-ideas-innovations-vehicle-propulsion-technologies-address-climate-change):  
-  Innovations in vehicle propulsion technologies to address climate change.
+- *2025.02* 3rd Place, [IEEE VTS Challenge](https://vtsociety.org/membership/call-ideas-innovations-vehicle-propulsion-technologies-address-climate-change): Innovations in vehicle propulsion technologies to address climate change.
 
-  - Winning project: *Reconfigurable Hybrid Battery Pack for Future Electric Aircraft: Integrating High-Specific-Energy and Power Battery Types*
+  - *Reconfigurable Hybrid Battery Pack for Future Electric Aircraft: Integrating High-Specific-Energy and Power Battery Types*
 
 
 # 📖 Educations
-- *2022.07 - 2026.01 (now)*, Ph.D., Battery and Power Electronics, Delft University of Technology, The Netherlands.
+- *2022.07 - 2026.01*, Ph.D., Battery and Power Electronics, Delft University of Technology, The Netherlands.
 - *2020.09 - 2022.07*, M.Sc., Electrical Power Engineering, Delft University of Technology, The Netherlands.
 - *2021.09 - 2022.02*, Exchange Student, ETH Zürich, Switzerland.
 - *2016.09 - 2020.06*, B.Sc., Electrical Engineering, Sichuan University, China.
