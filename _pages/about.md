@@ -34,7 +34,7 @@ I received the B.Sc. degree in electrical engineering and automation, in 2020, f
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Charging technology for electric aircraft</div><img src='images/Charger_overview.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Charging Technology for Electric Aircraft: State of the Art, Trends, and Challenges](https://ieeexplore-ieee-org.tudelft.idm.oclc.org/document/10319783)
+[Charging Technology for Electric Aircraft: State of the Art, Trends, and Challenges](https://ieeexplore.ieee.org/document/10319783)
 
 **Yawen Liang**, Gautham Ram Chandra Mouli, Pavol Bauer
 
@@ -53,7 +53,7 @@ This article provides a comprehensive review of the latest developments and futu
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
-[Charging Demand Prediction: Small All-Electric Aircraft and Electric Vertical Takeoff and Landing Aircraft](https://ieeexplore-ieee-org.tudelft.idm.oclc.org/document/10597592)
+[Charging Demand Prediction: Small All-Electric Aircraft and Electric Vertical Takeoff and Landing Aircraft](https://ieeexplore.ieee.org/document/10597592)
 
 **Yawen Liang**, Dávid Bodnár, Gautham Ram Chandra Mouli, Daniele Ragni, Pavol Bauer
 
@@ -98,7 +98,7 @@ To design a battery pack with improved energy density and optimized thermal and 
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
-[Harmonic Emission Modelling of Electric Vehicle Chargers](https://ieeexplore-ieee-org.tudelft.idm.oclc.org/abstract/document/9968654)
+[Harmonic Emission Modelling of Electric Vehicle Chargers](https://ieeexplore.ieee.org/document/9968654)
 
 **Yawen Liang**, Lu Wang, Zian Qin, Pavol Bauer
 
@@ -116,7 +116,7 @@ In emerging fast-charging stations, DC fast chargers (DCFCs) are employed, which
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ITEC 2024</div><img src='images/ITEC2025_image.png' alt="ITEC" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Hybrid Reconfigurable Battery Pack for All-Electric Aircraft: Synergizing High-Specific-Energy and Power Battery Types](https://ieeexplore-ieee-org.tudelft.idm.oclc.org/abstract/document/9968654)
+[Hybrid Reconfigurable Battery Pack for All-Electric Aircraft: Synergizing High-Specific-Energy and Power Battery Types](https://ieeexplore.ieee.org/document/10598954)
 
 Mayuresh Bhide, **Yawen Liang**, Gautham Ram Chandra Mouli, Mohamad Ghaffarian Niasar, Pavol Bauer
 
