@@ -40,7 +40,7 @@ I received the B.Sc. degree in electrical engineering and automation, in 2020, f
 
 **[IEEE Transactions on Transportation Electrification]**
 
-This article provides a comprehensive review of the latest developments and future trends in electric aviation, which covers electric aircraft, battery technology, and electric aircraft charging systems. This article also surveys the possible charging system architectures that can be employed for electric aircraft charging. Various power electronic converter topologies that are suitable for future electric aircraft DC fast chargers are presented. This article concludes by identifying future challenges in the path toward charging electric aircraft and discusses potential solutions to these challenges.*
+*This article provides a comprehensive review of the latest developments and future trends in electric aviation, which covers electric aircraft, battery technology, and electric aircraft charging systems. This article also surveys the possible charging system architectures that can be employed for electric aircraft charging. Various power electronic converter topologies that are suitable for future electric aircraft DC fast chargers are presented. This article concludes by identifying future challenges in the path toward charging electric aircraft and discusses potential solutions to these challenges.*
 
 </div>
 </div>
@@ -60,7 +60,7 @@ This article provides a comprehensive review of the latest developments and futu
 **[IEEE Transactions on Transportation Electrification]**
 
 <p><em>
-Electric aircraft (EA) is a promising alternative to conventional fuel-based aircraft, offering reduced greenhouse gas emissions and enhanced operational efficiency. To ensure seamless operations and optimize energy management, accurate EA charging demand prediction becomes imperative. This article presents a study on forecasting the charging demand for future small- and short-range EA. First, battery sizes are determined for various types of small all-EA (AEA) and electric vertical takeoff and landing (eVTOL) aircraft. Utilizing the electrical circuit model (ECM) for lithium-ion batteries (LIBs), this study derives the charging power curve of EA under the constant current–constant voltage (CC–CV) charging strategy. Subsequently, the charging demand prediction is conducted using the flight schedule of a selected airport, allowing for a realistic assessment of the power requirements for charging EA. Finally, case studies exploring charging demand under different scenarios are conducted. The results highlight the substantial power demand associated with the charging process, emphasizing the essential infrastructure needs and potential approaches for managing charging power in electric flight.
+This article presents a study on forecasting the charging demand for future small- and short-range EA. First, battery sizes are determined for various types of small all-EA (AEA) and electric vertical takeoff and landing (eVTOL) aircraft. Utilizing the electrical circuit model (ECM) for lithium-ion batteries (LIBs), this study derives the charging power curve of EA under the constant current–constant voltage (CC–CV) charging strategy. Subsequently, the charging demand prediction is conducted using the flight schedule of a selected airport, allowing for a realistic assessment of the power requirements for charging EA. Finally, case studies exploring charging demand under different scenarios are conducted.
 </em></p>
 
 </div>
@@ -184,6 +184,15 @@ The aviation industry, responsible for over 2% of energy-related CO<sub>2</sub> 
 <p align="center">
   <img src="images/ExperimentSetup_ETHz.png" alt="Experimental Setup at ETH Zürich" width="60%">
 </p>
+
+- *2021.05-2021.08*, Summer Project: *Optimization Code for the Design of IPT Resonant Converters*  
+  Supervised by **Dr. Francesca Grazian** and **Prof. Dr. T. Batista Soeiro**
+
+  - Modeled and analyzed a series-series (SS)-compensated inductive power transfer (IPT) resonant converter for EV wireless charging using MATLAB and LTspice
+  - Investigated soft switching behavior and developed a state-space model to assess component losses
+  - Performed system efficiency analysis under varying thermal and load conditions
+  - Validated simulation results with experimental data and identified optimal design parameters for efficiency improvement
+
 
 # Honors and Awards
 - *2025.06* 2nd Place, IEEE ITEC+EATS Student Design Competition: Design the high voltage/high-power distribution system for a regional (90 passenger) fully electric aircraft 
