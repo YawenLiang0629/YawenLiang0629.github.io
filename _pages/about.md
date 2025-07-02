@@ -82,7 +82,7 @@ Electric aircraft (EA) is a promising alternative to conventional fuel-based air
 **[IEEE Transactions on Transportation Electrification]**
 
 <p><em>
-To design a battery pack with improved energy density and optimized thermal and aging performance, a complete electro-thermal-aging (ETA) model at both cell and pack levels is developed to predict pack behavior under operational conditions. Optimization based on the proposed model is conducted, focusing on geometric configurations of the battery pack and coolant flow parameters. An optimized liquid-cooled battery module using Samsung 18650-35E cells is designed and achieves a maximum temperature of 41.76 °C, and a maximum cell-to-cell temperature difference of 3.11 °C, improving thermal uniformity. The lifetime performance also demonstrates a 5.51% improvement in state-of-health (SOH) after 180 cycles. Based on the module-to-pack structure analysis, the battery pack exhibits energy densities of 227.01 W h kg<sup>−1</sup> gravimetrically and 353.67 W h L<sup>−1</sup> volumetrically. This study facilitates the guideline for compact and lightweight liquid-cooled battery pack design with improved thermal and aging performance for AEA applications.
+To design a battery pack with improved energy density and optimized thermal and aging performance, a complete electro-thermal-aging (ETA) model at both cell and pack levels is developed to predict pack behavior under operational conditions. Optimization based on the proposed model is conducted, focusing on geometric configurations of the battery pack and coolant flow parameters. An optimized liquid-cooled battery module using Samsung 18650-35E cells is designed and achieves a maximum temperature of 41.76°C, and a maximum cell-to-cell temperature difference of 3.11°C, improving thermal uniformity. The lifetime performance also demonstrates a 5.51% improvement in state-of-health (SOH) after 180 cycles. Based on the module-to-pack structure analysis, the battery pack exhibits energy densities of 227.01 Whkg<sup>−1</sup> gravimetrically and 353.67 WhL<sup>−1</sup> volumetrically. This study facilitates the guideline for compact and lightweight liquid-cooled battery pack design with improved thermal and aging performance for AEA applications.
 </em></p>
 
 
@@ -105,14 +105,12 @@ To design a battery pack with improved energy density and optimized thermal and 
 **[IECON 2022]**
 
 <p><em>
-In emerging fast-charging stations, DC fast chargers (DCFCs) are employed, which rely on power electronics and control to achieve the required performance. Harmonic emission induced by the complex system behavior is of great concern in
-the DCFC system. This paper proposes a harmonic emission model for the typical electric vehicle charger design, i.e., twolevel active front end. The technique is based on the Fourier series method and the impedance model which is able to reveal the harmonic current emission of DCFCs under different grid conditions. Time-domain simulations are presented subsequently to validate the proposed model.
+In emerging fast-charging stations, DC fast chargers (DCFCs) are employed, which rely on power electronics and control to achieve the required performance. Harmonic emission induced by the complex system behavior is of great concern in the DCFC system. This paper proposes a harmonic emission model for the typical electric vehicle charger design, i.e., two-level active front end. The technique is based on the Fourier series method and the impedance model, which is able to reveal the harmonic current emission of DCFCs under different grid conditions. Time-domain simulations are presented subsequently to validate the proposed model.
 </em></p>
 
 
 </div>
 </div>
-
 
 
 <div class='paper-box-image'>
@@ -133,7 +131,7 @@ The aviation industry, responsible for over 2% of energy-related CO<sub>2</sub> 
 </em></p>
 
 </div>
-</div>)
+</div>
 
 
 
@@ -170,7 +168,7 @@ The aviation industry, responsible for over 2% of energy-related CO<sub>2</sub> 
 - *2021.09-2022.02*, Semester Project: *Investigation of Switching Loss Measurements of SiC MOSFETs*  
   Supervised by **Anliang Hu** and **Prof. Dr. Jürgen Biela**
 
-  -  Modified the traditional double-pulse test circuit to enable zero voltage switching (ZVS) turn-on evaluation
+  -  Modified the traditional double-pulse test circuit to enable zero-voltage switching (ZVS) turn-on evaluation
   - Developed and implemented a ZVS control scheme using FPGA
   - Conducted experimental measurements and analysis of switching losses
   
