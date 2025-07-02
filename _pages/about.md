@@ -110,7 +110,7 @@ Electric aircraft (EA) is a promising alternative to conventional fuel-based air
   
   - Experiment setup
 <figure>
-  <img src="images/ExperimentSetup_ETHz.png" alt="Experimental Setup at ETH Zürich" width="400">
+  <img src="images/ExperimentSetup_ETHz.png" alt="Experimental Setup at ETH Zürich" width="200">
   <figcaption>Figure: Experimental setup for switching losses measurement.</figcaption>
 </figure>
 
