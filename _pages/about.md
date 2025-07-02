@@ -32,7 +32,8 @@ I received the B.Sc. degree in electrical engineering and automation, in 2020, f
 [Charging Technology for Electric Aircraft: State of the Art, Trends, and Challenges](https://ieeexplore-ieee-org.tudelft.idm.oclc.org/document/10319783)
 
 **Yawen Liang**, Gautham Ram Chandra Mouli, Pavol Bauer
-[IEEE Transactions on Transportation Electrification]
+
+**[IEEE Transactions on Transportation Electrification]**
 
 *Electric aircraft technology has gained considerable attention and is rapidly developing to mitigate the environmental impact of air transportation and move toward more sustainable modes. Nevertheless, the unique characteristics of electric aircraft pose significant challenges for the charging infrastructure, which must be effectively addressed to facilitate the growth of electric aircraft. This article provides a comprehensive review of the latest developments and future trends in electric aviation, which covers electric aircraft, battery technology, and electric aircraft charging systems. This article also surveys the possible charging system architectures that can be employed for electric aircraft charging. Various power electronic converter topologies that are suitable for future electric aircraft DC fast chargers are presented. This article concludes by identifying future challenges in the path toward charging electric aircraft and discusses potential solutions to these challenges.*
 
@@ -50,7 +51,8 @@ I received the B.Sc. degree in electrical engineering and automation, in 2020, f
 [Optimization of a Liquid-Cooled Lithium-Ion Battery Pack for Electric Aircraft Based on an Integrated Electro-Thermal-Aging Pack Model](https://ieeexplore.ieee.org/document/xxxxxxx)
 
 **Yawen Liang**, Weiming Luo, Gautham Ram Chandra Mouli, Pavol Bauer
-[IEEE Transactions on Transportation Electrification]
+
+**[IEEE Transactions on Transportation Electrification]**
 
 <p><em>
 To design a battery pack with improved energy density and optimized thermal and aging performance, a complete electro-thermal-aging (ETA) model at both cell and pack levels is developed to predict pack behavior under operational conditions. Optimization based on the proposed model is conducted, focusing on geometric configurations of the battery pack and coolant flow parameters. An optimized liquid-cooled battery module using Samsung 18650-35E cells is designed and achieves a maximum temperature of 41.76 °C, and a maximum cell-to-cell temperature difference of 3.11 °C, improving thermal uniformity. The lifetime performance also demonstrates a 5.51% improvement in state-of-health (SOH) after 180 cycles. Based on the module-to-pack structure analysis, the battery pack exhibits energy densities of 227.01 W h kg<sup>−1</sup> gravimetrically and 353.67 W h L<sup>−1</sup> volumetrically. This study facilitates the guideline for compact and lightweight liquid-cooled battery pack design with improved thermal and aging performance for AEA applications.
@@ -71,7 +73,8 @@ To design a battery pack with improved energy density and optimized thermal and 
 [Charging Demand Prediction: Small All-Electric Aircraft and Electric Vertical Takeoff and Landing Aircraft](https://ieeexplore-ieee-org.tudelft.idm.oclc.org/document/10597592)
 
 **Yawen Liang**, Dávid Bodnár, Gautham Ram Chandra Mouli, Daniele Ragni, Pavol Bauer
-[IEEE Transactions on Transportation Electrification]
+
+**[IEEE Transactions on Transportation Electrification]**
 
 <p><em>
 Electric aircraft (EA) is a promising alternative to conventional fuel-based aircraft, offering reduced greenhouse gas emissions and enhanced operational efficiency. To ensure seamless operations and optimize energy management, accurate EA charging demand prediction becomes imperative. This article presents a study on forecasting the charging demand for future small- and short-range EA. First, battery sizes are determined for various types of small all-EA (AEA) and electric vertical takeoff and landing (eVTOL) aircraft. Utilizing the electrical circuit model (ECM) for lithium-ion batteries (LIBs), this study derives the charging power curve of EA under the constant current–constant voltage (CC–CV) charging strategy. Subsequently, the charging demand prediction is conducted using the flight schedule of a selected airport, allowing for a realistic assessment of the power requirements for charging EA. Finally, case studies exploring charging demand under different scenarios are conducted. The results highlight the substantial power demand associated with the charging process, emphasizing the essential infrastructure needs and potential approaches for managing charging power in electric flight.
@@ -89,10 +92,10 @@ Electric aircraft (EA) is a promising alternative to conventional fuel-based air
   - Validated the proposed model through simulation and experiment.
   - Built an IoT platform for harmonic calculation supporting device-to-cloud communication, including a front-end interface and a back-end for data handling and messaging.
   
-  - <strong>Demonstration Video:</strong>
+  - <strong>IoT platform demonstration video:</strong>
   
     <div style="margin-top: 10px;">
-      <video width="80%" controls>
+      <video width="60%" controls>
         <source src="images/IoTplatform.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
@@ -101,7 +104,10 @@ Electric aircraft (EA) is a promising alternative to conventional fuel-based air
 
 # 🎖 Honors and Awards
 - *2025.06* 2nd Place, IEEE ITEC+EATS Student Design Competition: Design the high voltage/high-power distribution system for a regional (90 passenger) fully electric aircraft 
-- *2025.02* 3rd Place, IEEE VTS Challenge: Innovations in vehicle propulsion technologies to address climate change
+- *2025.02* 3rd Place, [IEEE VTS Challenge](https://vtsociety.org/membership/call-ideas-innovations-vehicle-propulsion-technologies-address-climate-change):  
+  Innovations in vehicle propulsion technologies to address climate change.
+
+  - Winning project: *Reconfigurable Hybrid Battery Pack for Future Electric Aircraft: Integrating High-Specific-Energy and Power Battery Types*
 
 
 # 📖 Educations
