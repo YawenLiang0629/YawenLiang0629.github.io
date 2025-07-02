@@ -40,7 +40,7 @@ I received the B.Sc. degree in electrical engineering and automation, in 2020, f
 
 **[IEEE Transactions on Transportation Electrification]**
 
-*Electric aircraft technology has gained considerable attention and is rapidly developing to mitigate the environmental impact of air transportation and move toward more sustainable modes. Nevertheless, the unique characteristics of electric aircraft pose significant challenges for the charging infrastructure, which must be effectively addressed to facilitate the growth of electric aircraft. This article provides a comprehensive review of the latest developments and future trends in electric aviation, which covers electric aircraft, battery technology, and electric aircraft charging systems. This article also surveys the possible charging system architectures that can be employed for electric aircraft charging. Various power electronic converter topologies that are suitable for future electric aircraft DC fast chargers are presented. This article concludes by identifying future challenges in the path toward charging electric aircraft and discusses potential solutions to these challenges.*
+This article provides a comprehensive review of the latest developments and future trends in electric aviation, which covers electric aircraft, battery technology, and electric aircraft charging systems. This article also surveys the possible charging system architectures that can be employed for electric aircraft charging. Various power electronic converter topologies that are suitable for future electric aircraft DC fast chargers are presented. This article concludes by identifying future challenges in the path toward charging electric aircraft and discusses potential solutions to these challenges.*
 
 </div>
 </div>
@@ -166,16 +166,16 @@ The aviation industry, responsible for over 2% of energy-related CO<sub>2</sub> 
   </p>
   
   - Control block diagram
-  
-  <img src="images/ControlDiagram_TUD2.png" alt="AFE of EV charger with the control block diagram" width="40%">
-
+  <p align="center">
+  <img src="images/ControlDiagram_TUD2.png" alt="AFE of EV charger with the control block diagram" width="60%">
+  </p>
 
 
 
 - *2021.09-2022.02*, Semester Project: *Investigation of Switching Loss Measurements of SiC MOSFETs*  
   Supervised by **Anliang Hu** and **Prof. Dr. Jürgen Biela**
 
-  -  Modified the traditional double-pulse test circuit to enable zero-voltage switching (ZVS) turn-on evaluation
+  - Modified the traditional double-pulse test circuit to enable zero-voltage switching (ZVS) turn-on evaluation
   - Developed and implemented a ZVS control scheme using FPGA
   - Conducted experimental measurements and analysis of switching losses
   
