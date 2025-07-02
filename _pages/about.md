@@ -110,7 +110,7 @@ Electric aircraft (EA) is a promising alternative to conventional fuel-based air
   
   - Experiment setup
 <p align="center">
-  <img src="images/ExperimentSetup_ETHz.png" alt="Experimental Setup at ETH Zürich" width="70%">
+  <img src="images/ExperimentSetup_ETHz.png" alt="Experimental Setup at ETH Zürich" width="40%">
 </p>
 
 # 🎖 Honors and Awards
