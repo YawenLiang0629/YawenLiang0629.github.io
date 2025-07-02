@@ -167,7 +167,7 @@ The aviation industry, responsible for over 2% of energy-related CO<sub>2</sub> 
   
   - Control block diagram
   
-  <img src="images/ControlDiagram_TUD.png" alt="AFE of EV charger with the control block diagram" width="40%">
+  <img src="images/ControlDiagram_TUD2.png" alt="AFE of EV charger with the control block diagram" width="40%">
 
 
 
