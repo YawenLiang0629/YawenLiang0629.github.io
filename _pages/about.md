@@ -49,7 +49,7 @@ I received the B.Sc. degree in electrical engineering and automation, in 2020, f
   <div class='paper-box-image'>
     <div>
       <div class="badge">Charging demand prediction for electric aircraft</div>
-      <img src='images/ChargingDemandBig.png' alt="battery" width="100%">
+      <img src='images/ChargingDemandBig2.png' alt="battery" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
@@ -71,7 +71,7 @@ This article presents a study on forecasting the charging demand for future smal
   <div class='paper-box-image'>
     <div>
       <div class="badge">BTMS optimization for electric aircraft</div>
-      <img src='images/BatteryPackBig2.png' alt="battery" width="100%">
+      <img src='images/BatteryMTPBig.png' alt="battery" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
