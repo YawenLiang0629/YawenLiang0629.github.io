@@ -58,6 +58,26 @@ Electric aircraft represent a promising low-emission alternative to fuel-powered
 </div>
 </div>
 
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">Charging demand prediction for future electric aircraft</div>
+      <img src='images/Charging_Demand_Prediction.png' alt="battery" width="75%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+[Charging Demand Prediction: Small All-Electric Aircraft and Electric Vertical Takeoff and Landing Aircraft](https://ieeexplore-ieee-org.tudelft.idm.oclc.org/document/10597592)
+
+**Yawen Liang**, Dávid Bodnár, Gautham Ram Chandra Mouli, Daniele Ragni, Pavol Bauer
+
+<p><em>
+Electric aircraft (EA) is a promising alternative to conventional fuel-based aircraft, offering reduced greenhouse gas emissions and enhanced operational efficiency. To ensure seamless operations and optimize energy management, accurate EA charging demand prediction becomes imperative. This article presents a study on forecasting the charging demand for future small- and short-range EA. First, battery sizes are determined for various types of small all-EA (AEA) and electric vertical takeoff and landing (eVTOL) aircraft. Utilizing the electrical circuit model (ECM) for lithium-ion batteries (LIBs), this study derives the charging power curve of EA under the constant current–constant voltage (CC–CV) charging strategy. Subsequently, the charging demand prediction is conducted using the flight schedule of a selected airport, allowing for a realistic assessment of the power requirements for charging EA. Finally, case studies exploring charging demand under different scenarios are conducted. The results highlight the substantial power demand associated with the charging process, emphasizing the essential infrastructure needs and potential approaches for managing charging power in electric flight.
+</em></p>
+
+</div>
+</div>
+
+
 # 💬 Research Experience
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
