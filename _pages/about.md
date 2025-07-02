@@ -107,6 +107,7 @@ Electric aircraft (EA) is a promising alternative to conventional fuel-based air
   </p>
   
   - Control block diagram
+  
   <img src="images/ControlDiagram_TUD.png" alt="AFE of EV charger with the control block diagram" width="40%">
 
 
