@@ -19,7 +19,7 @@ redirect_from:
 
 
 
-I received the B.Sc. degree in electrical engineering and automation, in 2020, from Sichuan University, Chengdu, China, and the M.Sc. (cum laude) degree in electrical power engineering, in 2022, from the Delft University of Technology, Delft, The Netherlands, where she is currently working toward the Ph.D. degree in electrical engineering with DC Systems, Energy Conversion and Storage (DCE&S) group. Her research interests include battery systems and the power electronics interface for electric aircraft.
+I received the B.Sc. degree in electrical engineering and automation, in 2020, from Sichuan University, Chengdu, China, and the M.Sc. (cum laude) degree in electrical power engineering, in 2022, from the Delft University of Technology, Delft, The Netherlands, where I am currently working toward the Ph.D. degree in electrical engineering with DC Systems, Energy Conversion and Storage (DCE&S) group. My research interests include battery systems and the power electronics interface for electric aircraft.
 
 # News
 - *2025.06*: &nbsp;🎉🎉 One paper is accepted by IEEE Transactions on Transportation Electrification
@@ -114,6 +114,26 @@ the DCFC system. This paper proposes a harmonic emission model for the typical e
 </div>
 
 
+
+<div class='paper-box-image'>
+    <div>
+      <div class="badge">ITEC 2024</div>
+      <img src='images/ITEC2025_image.png' alt="ITEC" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+[Hybrid Reconfigurable Battery Pack for All-Electric Aircraft: Synergizing High-Specific-Energy and Power Battery Types](https://ieeexplore-ieee-org.tudelft.idm.oclc.org/abstract/document/9968654)
+
+Mayuresh Bhide, **Yawen Liang**, Gautham Ram Chandra Mouli, Mohamad Ghaffarian Niasar, Pavol Bauer
+
+**[ITEC 2024]**
+
+<p><em>
+The aviation industry, responsible for over 2% of energy-related CO<sub>2</sub> emissions in 2022, aims for Net Zero Emissions by 2050.  Despite electric aircraft’s environmental benefits and improved operational efficiency, the current battery technology limits their range and size. Based on the optimal system voltage and power profile of the reference all-electric aircraft, this paper presents the design of a hybrid reconfigurable battery pack. The design incorporates a combination of high-specific-energy  (263 W h kg<sup>−1</sup> at cell level) and high-specific-power  (1800 W kg<sup>−1</sup> at cell level) battery types,  and its performance is compared with that of a fixed configuration battery pack comprising a single battery type. Simulation results suggest a potential 900 kg (18% lighter than the fixed configuration) weight savings with the reconfigurable pack, translating into enhanced payload, energy savings, or range extension for a 9-passenger Eviation Alice electric aircraft,  with just 0.4% more energy capacity loss over 500 cycles.
+</em></p>
+
+</div>
+</div>)
 
 
 
