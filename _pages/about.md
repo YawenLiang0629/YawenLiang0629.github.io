@@ -32,6 +32,7 @@ I received the B.Sc. degree in electrical engineering and automation, in 2020, f
 [Charging Technology for Electric Aircraft: State of the Art, Trends, and Challenges](https://ieeexplore-ieee-org.tudelft.idm.oclc.org/document/10319783)
 
 **Yawen Liang**, Gautham Ram Chandra Mouli, Pavol Bauer
+[IEEE Transactions on Transportation Electrification]
 
 *Electric aircraft technology has gained considerable attention and is rapidly developing to mitigate the environmental impact of air transportation and move toward more sustainable modes. Nevertheless, the unique characteristics of electric aircraft pose significant challenges for the charging infrastructure, which must be effectively addressed to facilitate the growth of electric aircraft. This article provides a comprehensive review of the latest developments and future trends in electric aviation, which covers electric aircraft, battery technology, and electric aircraft charging systems. This article also surveys the possible charging system architectures that can be employed for electric aircraft charging. Various power electronic converter topologies that are suitable for future electric aircraft DC fast chargers are presented. This article concludes by identifying future challenges in the path toward charging electric aircraft and discusses potential solutions to these challenges.*
 
@@ -49,6 +50,7 @@ I received the B.Sc. degree in electrical engineering and automation, in 2020, f
 [Optimization of a Liquid-Cooled Lithium-Ion Battery Pack for Electric Aircraft Based on an Integrated Electro-Thermal-Aging Pack Model](https://ieeexplore.ieee.org/document/xxxxxxx)
 
 **Yawen Liang**, Weiming Luo, Gautham Ram Chandra Mouli, Pavol Bauer
+[IEEE Transactions on Transportation Electrification]
 
 <p><em>
 To design a battery pack with improved energy density and optimized thermal and aging performance, a complete electro-thermal-aging (ETA) model at both cell and pack levels is developed to predict pack behavior under operational conditions. Optimization based on the proposed model is conducted, focusing on geometric configurations of the battery pack and coolant flow parameters. An optimized liquid-cooled battery module using Samsung 18650-35E cells is designed and achieves a maximum temperature of 41.76 °C, and a maximum cell-to-cell temperature difference of 3.11 °C, improving thermal uniformity. The lifetime performance also demonstrates a 5.51% improvement in state-of-health (SOH) after 180 cycles. Based on the module-to-pack structure analysis, the battery pack exhibits energy densities of 227.01 W h kg<sup>−1</sup> gravimetrically and 353.67 W h L<sup>−1</sup> volumetrically. This study facilitates the guideline for compact and lightweight liquid-cooled battery pack design with improved thermal and aging performance for AEA applications.
@@ -69,6 +71,7 @@ To design a battery pack with improved energy density and optimized thermal and 
 [Charging Demand Prediction: Small All-Electric Aircraft and Electric Vertical Takeoff and Landing Aircraft](https://ieeexplore-ieee-org.tudelft.idm.oclc.org/document/10597592)
 
 **Yawen Liang**, Dávid Bodnár, Gautham Ram Chandra Mouli, Daniele Ragni, Pavol Bauer
+[IEEE Transactions on Transportation Electrification]
 
 <p><em>
 Electric aircraft (EA) is a promising alternative to conventional fuel-based aircraft, offering reduced greenhouse gas emissions and enhanced operational efficiency. To ensure seamless operations and optimize energy management, accurate EA charging demand prediction becomes imperative. This article presents a study on forecasting the charging demand for future small- and short-range EA. First, battery sizes are determined for various types of small all-EA (AEA) and electric vertical takeoff and landing (eVTOL) aircraft. Utilizing the electrical circuit model (ECM) for lithium-ion batteries (LIBs), this study derives the charging power curve of EA under the constant current–constant voltage (CC–CV) charging strategy. Subsequently, the charging demand prediction is conducted using the flight schedule of a selected airport, allowing for a realistic assessment of the power requirements for charging EA. Finally, case studies exploring charging demand under different scenarios are conducted. The results highlight the substantial power demand associated with the charging process, emphasizing the essential infrastructure needs and potential approaches for managing charging power in electric flight.
@@ -79,26 +82,13 @@ Electric aircraft (EA) is a promising alternative to conventional fuel-based air
 
 
 # 💬 Research Experience
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-      <div class="badge">Project</div>
-      <img src='images/500x300.png' alt="IoT Platform" width="100%">
-    </div>
-  </div>
-  <div class='paper-box-text' markdown="1">
-  
-**IoT platform harmonic emission**
+- *2021.09-2022.06*, MSc. Thesis: *IoT Based Online Harmonic Emission Estimation of DC Fast Chargers*
 
 <video width="100%" controls>
   <source src="images/IoTplatform.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
-- This project focuses on the harmonic emissions introduced by an IoT-based monitoring platform integrated into electric distribution systems.
 </div>
 </div>
 
@@ -114,5 +104,3 @@ Electric aircraft (EA) is a promising alternative to conventional fuel-based air
 - *2016.09 - 2020.06*, B.Sc., Electrical Engineering, Sichuan University, China.
 
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
