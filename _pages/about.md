@@ -113,13 +113,9 @@ In emerging fast-charging stations, DC fast chargers (DCFCs) are employed, which
 </div>
 
 
-<div class='paper-box-image'>
-    <div>
-      <div class="badge">ITEC 2024</div>
-      <img src='images/ITEC2025_image.png' alt="ITEC" width="100%">
-    </div>
-  </div>
-  <div class='paper-box-text' markdown="1">
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ITEC 2024</div><img src='images/ITEC2025_image.png' alt="ITEC" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
 [Hybrid Reconfigurable Battery Pack for All-Electric Aircraft: Synergizing High-Specific-Energy and Power Battery Types](https://ieeexplore-ieee-org.tudelft.idm.oclc.org/abstract/document/9968654)
 
 Mayuresh Bhide, **Yawen Liang**, Gautham Ram Chandra Mouli, Mohamad Ghaffarian Niasar, Pavol Bauer
@@ -132,6 +128,17 @@ The aviation industry, responsible for over 2% of energy-related CO<sub>2</sub> 
 
 </div>
 </div>
+
+
+
+
+
+
+
+
+
+
+
 
 
 
