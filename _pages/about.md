@@ -27,8 +27,9 @@ I received the B.Sc. degree in electrical engineering and automation, in 2020, f
 - *2024.07*: &nbsp;🎉🎉 One paper is accepted by IEEE Transactions on Transportation Electrification
 - *2024.03*: &nbsp;🎉🎉 One paper is accepted by ITEC USA 2024
 - *2023.11*: &nbsp;🎉🎉 One paper is accepted by IEEE Transactions on Transportation Electrification
+- *2022.07*: &nbsp;🎉🎉 One paper is accepted by IECON 2022
 
-# 📝 Publications 
+# Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Charging technology for electric aircraft</div><img src='images/Charger_overview.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -40,28 +41,6 @@ I received the B.Sc. degree in electrical engineering and automation, in 2020, f
 **[IEEE Transactions on Transportation Electrification]**
 
 *Electric aircraft technology has gained considerable attention and is rapidly developing to mitigate the environmental impact of air transportation and move toward more sustainable modes. Nevertheless, the unique characteristics of electric aircraft pose significant challenges for the charging infrastructure, which must be effectively addressed to facilitate the growth of electric aircraft. This article provides a comprehensive review of the latest developments and future trends in electric aviation, which covers electric aircraft, battery technology, and electric aircraft charging systems. This article also surveys the possible charging system architectures that can be employed for electric aircraft charging. Various power electronic converter topologies that are suitable for future electric aircraft DC fast chargers are presented. This article concludes by identifying future challenges in the path toward charging electric aircraft and discusses potential solutions to these challenges.*
-
-</div>
-</div>
-
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-      <div class="badge">BTMS optimization for electric aircraft</div>
-      <img src='images/BTMS_Optimization.png' alt="battery" width="100%">
-    </div>
-  </div>
-  <div class='paper-box-text' markdown="1">
-[Optimization of a Liquid-Cooled Lithium-Ion Battery Pack for Electric Aircraft Based on an Integrated Electro-Thermal-Aging Pack Model](https://ieeexplore.ieee.org/document/xxxxxxx)
-
-**Yawen Liang**, Weiming Luo, Gautham Ram Chandra Mouli, Pavol Bauer
-
-**[IEEE Transactions on Transportation Electrification]**
-
-<p><em>
-To design a battery pack with improved energy density and optimized thermal and aging performance, a complete electro-thermal-aging (ETA) model at both cell and pack levels is developed to predict pack behavior under operational conditions. Optimization based on the proposed model is conducted, focusing on geometric configurations of the battery pack and coolant flow parameters. An optimized liquid-cooled battery module using Samsung 18650-35E cells is designed and achieves a maximum temperature of 41.76 °C, and a maximum cell-to-cell temperature difference of 3.11 °C, improving thermal uniformity. The lifetime performance also demonstrates a 5.51% improvement in state-of-health (SOH) after 180 cycles. Based on the module-to-pack structure analysis, the battery pack exhibits energy densities of 227.01 W h kg<sup>−1</sup> gravimetrically and 353.67 W h L<sup>−1</sup> volumetrically. This study facilitates the guideline for compact and lightweight liquid-cooled battery pack design with improved thermal and aging performance for AEA applications.
-</em></p>
-
 
 </div>
 </div>
@@ -88,7 +67,58 @@ Electric aircraft (EA) is a promising alternative to conventional fuel-based air
 </div>
 
 
-# 💬 Research Experience
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">BTMS optimization for electric aircraft</div>
+      <img src='images/BTMS_Optimization.png' alt="battery" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+[Optimization of a Liquid-Cooled Lithium-Ion Battery Pack for Electric Aircraft Based on an Integrated Electro-Thermal-Aging Pack Model](https://ieeexplore.ieee.org/document/xxxxxxx)
+
+**Yawen Liang**, Weiming Luo, Gautham Ram Chandra Mouli, Pavol Bauer
+
+**[IEEE Transactions on Transportation Electrification]**
+
+<p><em>
+To design a battery pack with improved energy density and optimized thermal and aging performance, a complete electro-thermal-aging (ETA) model at both cell and pack levels is developed to predict pack behavior under operational conditions. Optimization based on the proposed model is conducted, focusing on geometric configurations of the battery pack and coolant flow parameters. An optimized liquid-cooled battery module using Samsung 18650-35E cells is designed and achieves a maximum temperature of 41.76 °C, and a maximum cell-to-cell temperature difference of 3.11 °C, improving thermal uniformity. The lifetime performance also demonstrates a 5.51% improvement in state-of-health (SOH) after 180 cycles. Based on the module-to-pack structure analysis, the battery pack exhibits energy densities of 227.01 W h kg<sup>−1</sup> gravimetrically and 353.67 W h L<sup>−1</sup> volumetrically. This study facilitates the guideline for compact and lightweight liquid-cooled battery pack design with improved thermal and aging performance for AEA applications.
+</em></p>
+
+
+</div>
+</div>
+
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">IECON 2022</div>
+      <img src='images/IECON_image.png' alt="IECON" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+[Harmonic Emission Modelling of Electric Vehicle Chargers](https://ieeexplore-ieee-org.tudelft.idm.oclc.org/abstract/document/9968654)
+
+**Yawen Liang**, Lu Wang, Zian Qin, Pavol Bauer
+
+**[IECON 2022]**
+
+<p><em>
+In emerging fast-charging stations, DC fast chargers (DCFCs) are employed, which rely on power electronics and control to achieve the required performance. Harmonic emission induced by the complex system behavior is of great concern in
+the DCFC system. This paper proposes a harmonic emission model for the typical electric vehicle charger design, i.e., twolevel active front end. The technique is based on the Fourier series method and the impedance model which is able to reveal the harmonic current emission of DCFCs under different grid conditions. Time-domain simulations are presented subsequently to validate the proposed model.
+</em></p>
+
+
+</div>
+</div>
+
+
+
+
+
+
+# Research Experience
 - *2021.09-2022.06*, MSc. Thesis: *IoT-Based Online Harmonic Emission Estimation of DC Fast Chargers*  
   Supervised by **Dr. Lu Wang** and **Prof. Zian Qin**
 
@@ -129,14 +159,14 @@ Electric aircraft (EA) is a promising alternative to conventional fuel-based air
   <img src="images/ExperimentSetup_ETHz.png" alt="Experimental Setup at ETH Zürich" width="60%">
 </p>
 
-# 🎖 Honors and Awards
+# Honors and Awards
 - *2025.06* 2nd Place, IEEE ITEC+EATS Student Design Competition: Design the high voltage/high-power distribution system for a regional (90 passenger) fully electric aircraft 
 - *2025.02* 3rd Place, [IEEE VTS Challenge](https://vtsociety.org/membership/call-ideas-innovations-vehicle-propulsion-technologies-address-climate-change): Innovations in vehicle propulsion technologies to address climate change.
 
   - *Reconfigurable Hybrid Battery Pack for Future Electric Aircraft: Integrating High-Specific-Energy and Power Battery Types*
 
 
-# 📖 Educations
+# Educations
 - *2022.07 - 2026.01*, Ph.D., Battery and Power Electronics, Delft University of Technology, The Netherlands.
 - *2020.09 - 2022.07*, M.Sc., Electrical Power Engineering, Delft University of Technology, The Netherlands.
 - *2021.09 - 2022.02*, Exchange Student, ETH Zürich, Switzerland.
