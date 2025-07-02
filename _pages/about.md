@@ -82,15 +82,22 @@ Electric aircraft (EA) is a promising alternative to conventional fuel-based air
 
 
 # 💬 Research Experience
-- *2021.09-2022.06*, MSc. Thesis: *IoT Based Online Harmonic Emission Estimation of DC Fast Chargers*
+- *2021.09-2022.06*, MSc. Thesis: *IoT-Based Online Harmonic Emission Estimation of DC Fast Chargers*  
+  Supervised by Dr. Lu Wang and Prof. Zian Qin
 
-<video width="100%" controls>
-  <source src="images/IoTplatform.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+  - Developed a harmonic emission model for two-level active front-end EV chargers used in DC fast-charging stations.
+  - Validated the proposed model through simulation and experiment.
+  - Built an IoT platform for harmonic calculation supporting device-to-cloud communication, including a front-end interface and a back-end for data handling and messaging.
+  
+  - <strong>Demonstration Video:</strong>
+  
+    <div style="margin-top: 10px;">
+      <video width="80%" controls>
+        <source src="images/IoTplatform.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
+    </div>
 
-</div>
-</div>
 
 # 🎖 Honors and Awards
 - *2025.06* 2nd Place, IEEE ITEC+EATS Student Design Competition: Design the high voltage/high-power distribution system for a regional (90 passenger) fully electric aircraft 
