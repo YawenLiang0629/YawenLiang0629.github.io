@@ -109,10 +109,9 @@ Electric aircraft (EA) is a promising alternative to conventional fuel-based air
   - Conducted experimental measurements and analysis of switching losses
   
   - Experiment setup
-<figure>
-  <img src="images/ExperimentSetup_ETHz.png" alt="Experimental Setup at ETH Zürich" width="200">
-  <figcaption>Figure: Experimental setup for switching losses measurement.</figcaption>
-</figure>
+<p align="center">
+  <img src="images/ExperimentSetup_ETHz.png" alt="Experimental Setup at ETH Zürich" width="70%">
+</p>
 
 # 🎖 Honors and Awards
 - *2025.06* 2nd Place, IEEE ITEC+EATS Student Design Competition: Design the high voltage/high-power distribution system for a regional (90 passenger) fully electric aircraft 
