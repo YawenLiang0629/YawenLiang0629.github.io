@@ -26,7 +26,7 @@ I received the B.Sc. degree in electrical engineering and automation, in 2020, f
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Charging technology of electric aircraft</div><img src='images/Charger_overview.png' alt="sym" width="75%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Charging technology for electric aircraft</div><img src='images/Charger_overview.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Charging Technology for Electric Aircraft: State of the Art, Trends, and Challenges](https://ieeexplore-ieee-org.tudelft.idm.oclc.org/document/10319783)
@@ -41,8 +41,8 @@ I received the B.Sc. degree in electrical engineering and automation, in 2020, f
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <div class="badge">Battery pack optimization for electric aircraft</div>
-      <img src='images/BTMS_Optimization.png' alt="battery" width="75%">
+      <div class="badge">BTMS optimization for electric aircraft</div>
+      <img src='images/BTMS_Optimization.png' alt="battery" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
@@ -51,7 +51,7 @@ I received the B.Sc. degree in electrical engineering and automation, in 2020, f
 **Yawen Liang**, Weiming Luo, Gautham Ram Chandra Mouli, Pavol Bauer
 
 <p><em>
-Electric aircraft represent a promising low-emission alternative to fuel-powered aviation. As the energy source, the battery pack must guarantee key performance metrics such as energy density, power density, lifetime, and safety. Among these, energy density is particularly critical as it directly impacts the range and payload capacity. Additionally, the battery thermal management system (BTMS) of the battery pack is essential to maintain safety, efficiency, and lifetime. Hence, to design a battery pack with improved energy density and optimized thermal and aging performance, a complete electro-thermal-aging (ETA) model at both cell and pack levels is developed to predict pack behavior under operational conditions. Simulations demonstrate that the proposed model achieves an accurate thermal prediction within 0.87 °C during an example all-electric aircraft (AEA) mission profile. Optimization based on the proposed model is conducted, focusing on geometric configurations of the battery pack and coolant flow parameters. An optimized liquid-cooled battery module using Samsung 18650-35E cells is designed and achieves a maximum temperature of 41.76 °C, and a maximum cell-to-cell temperature difference of 3.11 °C, improving thermal uniformity. The lifetime performance also demonstrates a 5.51% improvement in state-of-health (SOH) after 180 cycles. Based on the module-to-pack structure analysis, the battery pack exhibits energy densities of 227.01 W h kg<sup>−1</sup> gravimetrically and 353.67 W h L<sup>−1</sup> volumetrically. This study facilitates the guideline for compact and lightweight liquid-cooled battery pack design with improved thermal and aging performance for AEA applications.
+Electric aircraft represent a promising low-emission alternative to fuel-powered aviation. As the energy source, the battery pack must guarantee key performance metrics such as energy density, power density, lifetime, and safety. Among these, energy density is particularly critical as it directly impacts the range and payload capacity. Additionally, the battery thermal management system (BTMS) of the battery pack is essential to maintain safety, efficiency, and lifetime. Hence, to design a battery pack with improved energy density and optimized thermal and aging performance, a complete electro-thermal-aging (ETA) model at both cell and pack levels is developed to predict pack behavior under operational conditions. Optimization based on the proposed model is conducted, focusing on geometric configurations of the battery pack and coolant flow parameters. An optimized liquid-cooled battery module using Samsung 18650-35E cells is designed and achieves a maximum temperature of 41.76 °C, and a maximum cell-to-cell temperature difference of 3.11 °C, improving thermal uniformity. The lifetime performance also demonstrates a 5.51% improvement in state-of-health (SOH) after 180 cycles. Based on the module-to-pack structure analysis, the battery pack exhibits energy densities of 227.01 W h kg<sup>−1</sup> gravimetrically and 353.67 W h L<sup>−1</sup> volumetrically. This study facilitates the guideline for compact and lightweight liquid-cooled battery pack design with improved thermal and aging performance for AEA applications.
 </em></p>
 
 
@@ -62,7 +62,7 @@ Electric aircraft represent a promising low-emission alternative to fuel-powered
   <div class='paper-box-image'>
     <div>
       <div class="badge">Charging demand prediction for future electric aircraft</div>
-      <img src='images/Charging_Demand_Prediction.png' alt="battery" width="75%">
+      <img src='images/Charging_Demand_Prediction.png' alt="battery" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
