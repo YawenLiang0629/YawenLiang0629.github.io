@@ -86,7 +86,7 @@ Electric aircraft (EA) is a promising alternative to conventional fuel-based air
 
 # 💬 Research Experience
 - *2021.09-2022.06*, MSc. Thesis: *IoT-Based Online Harmonic Emission Estimation of DC Fast Chargers*  
-  Supervised by Dr. Lu Wang and Prof. Zian Qin
+  Supervised by **Dr. Lu Wang** and **Prof. Zian Qin**
 
   - Developed a harmonic emission model for two-level active front-end EV chargers used in DC fast-charging stations.
   - Validated the proposed model through simulation and experiment.
