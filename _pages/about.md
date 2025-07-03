@@ -200,8 +200,8 @@ Based on the optimal system voltage and power profile of the reference all-elect
 
 - *2019.11*  Ultra High Voltage Scholarship, China
 - *2019.10*  Outstanding graduate, Sichuan University
-- *2018.11*  National Scholarship, China (top 0.2%)
-- *2017.11*  National Scholarship, China (top 0.2%)
+- *2018.11*  National Scholarship, China 
+- *2017.11*  National Scholarship, China 
 
 
 # Educations
@@ -211,7 +211,7 @@ Based on the optimal system voltage and power profile of the reference all-elect
    - Grade: 9.15/10.0 (cum laude)
    - *Thesis: IoT-based online harmonic emission estimation of DC fast chargers*
 - *2021.09 - 2022.02*, Exchange Student, ETH Zürich, Switzerland.
-   - Project: Investigation of switching loss measurements of SiC MOSFETs
+   - *Project: Investigation of switching loss measurements of SiC MOSFETs*
 - *2016.09 - 2020.06*, B.Sc., Electrical Engineering, Sichuan University, China.
    - Grade: 90.31/100 (Outstanding graduate)
    - *Thesis: Research on the photovoltaic grid-connected control strategy*
