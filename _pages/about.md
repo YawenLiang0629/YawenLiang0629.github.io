@@ -71,7 +71,7 @@ This article presents a study on forecasting the charging demand for future smal
   <div class='paper-box-image'>
     <div>
       <div class="badge">BTMS optimization for electric aircraft</div>
-      <img src='images/BatteryMTPBig.png' alt="battery" width="100%">
+      <img src='images/LiquidModule.png' alt="battery" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
