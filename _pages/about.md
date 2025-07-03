@@ -113,7 +113,7 @@ In emerging fast-charging stations, DC fast chargers (DCFCs) are employed, which
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ITEC 2024</div><img src='images/ITEC2024 - Reconfig BP' alt="ITEC" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ITEC 2024</div><img src='images/ITEC2024 - Reconfig BP.png' alt="ITEC" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Hybrid Reconfigurable Battery Pack for All-Electric Aircraft: Synergizing High-Specific-Energy and Power Battery Types](https://ieeexplore.ieee.org/document/10598954)
