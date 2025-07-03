@@ -18,8 +18,8 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
+<!-- I received the B.Sc. degree in electrical engineering and automation, in 2020, from Sichuan University, Chengdu, China, and the M.Sc. (cum laude) degree in electrical power engineering, in 2022, from the Delft University of Technology, Delft, The Netherlands, where I am currently working toward the Ph.D. degree in electrical engineering with DC Systems, Energy Conversion and Storage (DCE&S) group. My research interests include battery systems and the power electronics interface for electric aircraft. -->
 
-I received the B.Sc. degree in electrical engineering and automation, in 2020, from Sichuan University, Chengdu, China, and the M.Sc. (cum laude) degree in electrical power engineering, in 2022, from the Delft University of Technology, Delft, The Netherlands, where I am currently working toward the Ph.D. degree in electrical engineering with DC Systems, Energy Conversion and Storage (DCE&S) group. My research interests include battery systems and the power electronics interface for electric aircraft.
 
 # News
 - *2025.06*: &nbsp;🎉🎉 One paper is accepted by IEEE Transactions on Transportation Electrification
@@ -160,12 +160,14 @@ Based on the optimal system voltage and power profile of the reference all-elect
     </video>
   </div>
 
-    
+
+
   - Experiment setup
   <p align="center">
   <img src="images/ExperimentSetup_TUD.png" alt="Experimental Setup at TU Delft" width="60%">
   </p>
-  
+
+
   - Control block diagram
   <p align="center">
   <img src="images/IECON2022 - Control Diagram.png" alt="AFE of EV charger with the control block diagram" width="60%">
@@ -179,6 +181,7 @@ Based on the optimal system voltage and power profile of the reference all-elect
   - Modified the traditional double-pulse test circuit to enable zero-voltage switching (ZVS) turn-on evaluation
   - Developed and implemented a ZVS control scheme using FPGA
   - Conducted experimental measurements and analysis of switching losses
+
   
   - Experiment setup
 <p align="center">
