@@ -31,7 +31,7 @@ I received the B.Sc. degree in electrical engineering and automation, in 2020, f
 
 # Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Charging technology for electric aircraft</div><img src='images/ChargingStationArc.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Charging technology for electric aircraft</div><img src='images/TTE - Review.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Charging Technology for Electric Aircraft: State of the Art, Trends, and Challenges](https://ieeexplore.ieee.org/document/10319783)
@@ -49,7 +49,7 @@ I received the B.Sc. degree in electrical engineering and automation, in 2020, f
   <div class='paper-box-image'>
     <div>
       <div class="badge">Charging demand prediction for electric aircraft</div>
-      <img src='images/ChargingDemandBig2.png' alt="battery" width="100%">
+      <img src='images/TTE - Charging Demand.png' alt="battery" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
@@ -94,7 +94,7 @@ To design a battery pack with improved energy density and optimized thermal and 
   <div class='paper-box-image'>
     <div>
       <div class="badge">IECON 2022</div>
-      <img src='images/ControlDiagram_TUD2.png' alt="IECON" width="100%">
+      <img src='images/IECON2022 - Control Diagram.png' alt="IECON" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
@@ -113,7 +113,7 @@ In emerging fast-charging stations, DC fast chargers (DCFCs) are employed, which
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ITEC 2024</div><img src='images/ReconfigurableBPBig.png' alt="ITEC" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ITEC 2024</div><img src='images/ITEC2024 - Reconfig BP' alt="ITEC" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Hybrid Reconfigurable Battery Pack for All-Electric Aircraft: Synergizing High-Specific-Energy and Power Battery Types](https://ieeexplore.ieee.org/document/10598954)
@@ -168,7 +168,7 @@ Based on the optimal system voltage and power profile of the reference all-elect
   
   - Control block diagram
   <p align="center">
-  <img src="images/ControlDiagram_TUD2.png" alt="AFE of EV charger with the control block diagram" width="60%">
+  <img src="images/IECON2022 - Control Diagram.png" alt="AFE of EV charger with the control block diagram" width="60%">
   </p>
 
 
