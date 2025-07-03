@@ -31,7 +31,7 @@ I received the B.Sc. degree in electrical engineering and automation, in 2020, f
 
 # Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Charging technology for electric aircraft</div><img src='images/TTE - Review.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TTE 2023</div><img src='images/TTE - Review.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Charging Technology for Electric Aircraft: State of the Art, Trends, and Challenges](https://ieeexplore.ieee.org/document/10319783)
@@ -48,7 +48,7 @@ I received the B.Sc. degree in electrical engineering and automation, in 2020, f
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <div class="badge">Charging demand prediction for electric aircraft</div>
+      <div class="badge">TTE 2024</div>
       <img src='images/TTE - Charging Demand.png' alt="battery" width="100%">
     </div>
   </div>
@@ -70,7 +70,7 @@ This article presents a study on forecasting the charging demand for future smal
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <div class="badge">BTMS optimization for electric aircraft</div>
+      <div class="badge">TTE 2025</div>
       <img src='images/LiquidModule.png' alt="battery" width="100%">
     </div>
   </div>
