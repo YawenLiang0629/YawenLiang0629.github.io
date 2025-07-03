@@ -198,11 +198,22 @@ Based on the optimal system voltage and power profile of the reference all-elect
 
   - *Reconfigurable Hybrid Battery Pack for Future Electric Aircraft: Integrating High-Specific-Energy and Power Battery Types*
 
+- *2019.11*  Ultra High Voltage Scholarship, China
+- *2019.10*  Outstanding graduate, Sichuan University
+- *2018.11*  National Scholarship, China (top 0.2%)
+- *2017.11*  National Scholarship, China (top 0.2%)
+
 
 # Educations
 - *2022.07 - 2026.01*, Ph.D., Battery and Power Electronics, Delft University of Technology, The Netherlands.
+   - *Topic: Towards Next-Generation Electric Flight - Battery Pack Design and Power Electronics Interface*
 - *2020.09 - 2022.07*, M.Sc., Electrical Power Engineering, Delft University of Technology, The Netherlands.
+   - Grade: 9.15/10.0 (cum laude)
+   - *Thesis: IoT-based online harmonic emission estimation of DC fast chargers*
 - *2021.09 - 2022.02*, Exchange Student, ETH Zürich, Switzerland.
+   - Project: Investigation of switching loss measurements of SiC MOSFETs
 - *2016.09 - 2020.06*, B.Sc., Electrical Engineering, Sichuan University, China.
+   - Grade: 90.31/100 (Outstanding graduate)
+   - *Thesis: Research on the photovoltaic grid-connected control strategy*
 
 
