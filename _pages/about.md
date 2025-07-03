@@ -31,7 +31,7 @@ redirect_from:
 
 # Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TTE 2023</div><img src='images/TTE - Review.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TTE 2023</div><img src='images/TTE - Review2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Charging Technology for Electric Aircraft: State of the Art, Trends, and Challenges](https://ieeexplore.ieee.org/document/10319783)
@@ -49,7 +49,7 @@ redirect_from:
   <div class='paper-box-image'>
     <div>
       <div class="badge">TTE 2024</div>
-      <img src='images/TTE - Charging Demand.png' alt="battery" width="100%">
+      <img src='images/TTE - Charging Demand2.png' alt="battery" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
@@ -167,11 +167,6 @@ Based on the optimal system voltage and power profile of the reference all-elect
   <img src="images/ExperimentSetup_TUD.png" alt="Experimental Setup at TU Delft" width="60%">
   </p>
 
-
-  - Control block diagram
-  <p align="center">
-  <img src="images/IECON2022 - Control Diagram.png" alt="AFE of EV charger with the control block diagram" width="60%">
-  </p>
 
 
 
