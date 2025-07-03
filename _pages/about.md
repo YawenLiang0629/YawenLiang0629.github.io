@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I received the B.Sc. degree in electrical engineering and automation, in 2020, from Sichuan University, Chengdu, China, and the M.Sc. (cum laude) degree in electrical power engineering, in 2022, from the Delft University of Technology, Delft, The Netherlands, where I am currently working toward the Ph.D. degree in electrical engineering with DC Systems, Energy Conversion and Storage (DCE&S) group. My research interests include battery systems and the power electronics interface for electric aircraft.
+I received the B.Sc. degree in electrical engineering and automation, in 2020, from Sichuan University, Chengdu, China, and the M.Sc. (cum laude) degree in electrical power engineering, in 2022, from the Delft University of Technology, Delft, the Netherlands, where I am currently working toward the Ph.D. degree in electrical engineering with DC Systems, Energy Conversion and Storage (DCE&S) group. My research interests include battery systems and the power electronics interface for electric aircraft.
 
 
 
@@ -205,15 +205,15 @@ Based on the optimal system voltage and power profile of the reference all-elect
 
 
 # Educations
-- *2022.07 - 2026.01*, Ph.D., Battery and Power Electronics, Delft University of Technology, The Netherlands.
-   - *Topic: Towards Next-Generation Electric Flight - Battery Pack Design and Power Electronics Interface*
-- *2020.09 - 2022.07*, M.Sc., Electrical Power Engineering, Delft University of Technology, The Netherlands.
+- *2022.07 - 2026.01*, Ph.D., Battery and Power Electronics, Delft University of Technology, the Netherlands.
+   - *Topic: Towards next-generation electric flight - Battery pack design and power electronics interface*
+- *2020.09 - 2022.07*, M.Sc., Electrical Power Engineering, Delft University of Technology, the Netherlands.
    - Grade: 9.15/10.0 (cum laude)
    - *Thesis: IoT-based online harmonic emission estimation of DC fast chargers*
 - *2021.09 - 2022.02*, Exchange Student, ETH Zürich, Switzerland.
    - *Project: Investigation of switching loss measurements of SiC MOSFETs*
 - *2016.09 - 2020.06*, B.Sc., Electrical Engineering, Sichuan University, China.
-   - Grade: 90.31/100 (Outstanding graduate)
+   - Grade: 90.31/100 (outstanding graduate)
    - *Thesis: Research on the photovoltaic grid-connected control strategy*
 
 
