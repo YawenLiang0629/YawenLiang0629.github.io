@@ -75,7 +75,7 @@ This article presents a study on forecasting the charging demand for future smal
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
-[Optimization of a Liquid-Cooled Lithium-Ion Battery Pack for Electric Aircraft Based on an Integrated Electro-Thermal-Aging Pack Model](https://ieeexplore.ieee.org/document/xxxxxxx)
+[Optimization of a Liquid-Cooled Lithium-Ion Battery Pack for Electric Aircraft Based on an Integrated Electro-Thermal-Aging Pack Model](https://ieeexplore.ieee.org/document/11071921)
 
 **Yawen Liang**, Weiming Luo, Gautham Ram Chandra Mouli, Pavol Bauer
 
