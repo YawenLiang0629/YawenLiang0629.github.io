@@ -31,41 +31,6 @@ I received the B.Sc. degree in electrical engineering and automation, in 2020, f
 
 # Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TTE 2023</div><img src='images/TTE - Review2.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Charging Technology for Electric Aircraft: State of the Art, Trends, and Challenges](https://ieeexplore.ieee.org/document/10319783)
-
-**Yawen Liang**, Gautham Ram Chandra Mouli, Pavol Bauer
-
-**[IEEE Transactions on Transportation Electrification]**
-
-*This article provides a comprehensive review of the latest developments and future trends in electric aviation, which covers electric aircraft, battery technology, and electric aircraft charging systems. This article also surveys the possible charging system architectures that can be employed for electric aircraft charging. Various power electronic converter topologies that are suitable for future electric aircraft DC fast chargers are presented. This article concludes by identifying future challenges in the path toward charging electric aircraft and discusses potential solutions to these challenges.*
-
-</div>
-</div>
-
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-      <div class="badge">TTE 2024</div>
-      <img src='images/TTE - Charging Demand2.png' alt="battery" width="100%">
-    </div>
-  </div>
-  <div class='paper-box-text' markdown="1">
-[Charging Demand Prediction: Small All-Electric Aircraft and Electric Vertical Takeoff and Landing Aircraft](https://ieeexplore.ieee.org/document/10597592)
-
-**Yawen Liang**, Dávid Bodnár, Gautham Ram Chandra Mouli, Daniele Ragni, Pavol Bauer
-
-**[IEEE Transactions on Transportation Electrification]**
-
-<p><em>
-This article presents a study on forecasting the charging demand for future small- and short-range EA. First, battery sizes are determined for various types of small all-EA (AEA) and electric vertical takeoff and landing (eVTOL) aircraft. Utilizing the electrical circuit model (ECM) for lithium-ion batteries (LIBs), this study derives the charging power curve of EA under the constant current–constant voltage (CC–CV) charging strategy. Subsequently, the charging demand prediction is conducted using the flight schedule of a selected airport, allowing for a realistic assessment of the power requirements for charging EA. Finally, case studies exploring charging demand under different scenarios are conducted.
-</em></p>
-
-</div>
-</div>
-
 
 <div class='paper-box'>
   <div class='paper-box-image'>
@@ -90,27 +55,44 @@ To design a battery pack with improved energy density and optimized thermal and 
 </div>
 
 
+
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <div class="badge">IECON 2022</div>
-      <img src='images/IECON2022 - Control Diagram.png' alt="IECON" width="100%">
+      <div class="badge">TTE 2024</div>
+      <img src='images/TTE - Charging Demand2.png' alt="battery" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
-[Harmonic Emission Modelling of Electric Vehicle Chargers](https://ieeexplore.ieee.org/document/9968654)
+[Charging Demand Prediction: Small All-Electric Aircraft and Electric Vertical Takeoff and Landing Aircraft](https://ieeexplore.ieee.org/document/10597592)
 
-**Yawen Liang**, Lu Wang, Zian Qin, Pavol Bauer
+**Yawen Liang**, Dávid Bodnár, Gautham Ram Chandra Mouli, Daniele Ragni, Pavol Bauer
 
-**[IECON 2022]**
+**[IEEE Transactions on Transportation Electrification]**
 
 <p><em>
-In emerging fast-charging stations, DC fast chargers (DCFCs) are employed, which rely on power electronics and control to achieve the required performance. Harmonic emission induced by the complex system behavior is of great concern in the DCFC system. This paper proposes a harmonic emission model for the typical electric vehicle charger design, i.e., two-level active front end. The technique is based on the Fourier series method and the impedance model, which is able to reveal the harmonic current emission of DCFCs under different grid conditions. Time-domain simulations are presented subsequently to validate the proposed model.
+This article presents a study on forecasting the charging demand for future small- and short-range EA. First, battery sizes are determined for various types of small all-EA (AEA) and electric vertical takeoff and landing (eVTOL) aircraft. Utilizing the electrical circuit model (ECM) for lithium-ion batteries (LIBs), this study derives the charging power curve of EA under the constant current–constant voltage (CC–CV) charging strategy. Subsequently, the charging demand prediction is conducted using the flight schedule of a selected airport, allowing for a realistic assessment of the power requirements for charging EA. Finally, case studies exploring charging demand under different scenarios are conducted.
 </em></p>
 
+</div>
+</div>
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TTE 2023</div><img src='images/TTE - Review2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Charging Technology for Electric Aircraft: State of the Art, Trends, and Challenges](https://ieeexplore.ieee.org/document/10319783)
+
+**Yawen Liang**, Gautham Ram Chandra Mouli, Pavol Bauer
+
+**[IEEE Transactions on Transportation Electrification]**
+
+*This article provides a comprehensive review of the latest developments and future trends in electric aviation, which covers electric aircraft, battery technology, and electric aircraft charging systems. This article also surveys the possible charging system architectures that can be employed for electric aircraft charging. Various power electronic converter topologies that are suitable for future electric aircraft DC fast chargers are presented. This article concludes by identifying future challenges in the path toward charging electric aircraft and discusses potential solutions to these challenges.*
 
 </div>
 </div>
+
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ITEC 2024</div><img src='images/ITEC2024 - Reconfig BP.png' alt="ITEC" width="100%"></div></div>
@@ -132,6 +114,27 @@ Based on the optimal system voltage and power profile of the reference all-elect
 
 
 
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">IECON 2022</div>
+      <img src='images/IECON2022 - Control Diagram.png' alt="IECON" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+[Harmonic Emission Modelling of Electric Vehicle Chargers](https://ieeexplore.ieee.org/document/9968654)
+
+**Yawen Liang**, Lu Wang, Zian Qin, Pavol Bauer
+
+**[IECON 2022]**
+
+<p><em>
+In emerging fast-charging stations, DC fast chargers (DCFCs) are employed, which rely on power electronics and control to achieve the required performance. Harmonic emission induced by the complex system behavior is of great concern in the DCFC system. This paper proposes a harmonic emission model for the typical electric vehicle charger design, i.e., two-level active front end. The technique is based on the Fourier series method and the impedance model, which is able to reveal the harmonic current emission of DCFCs under different grid conditions. Time-domain simulations are presented subsequently to validate the proposed model.
+</em></p>
+
+
+</div>
+</div>
 
 
 
