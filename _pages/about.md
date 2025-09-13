@@ -147,6 +147,24 @@ In emerging fast-charging stations, DC fast chargers (DCFCs) are employed, which
 
 
 # Research Experience
+- *2024.03-2025.09*, *Power Electronics Interfaces for the Powertrain Integration of Hybrid Battery Packs*  
+  Supervised by **Dr. Gautham Ram Chandra Mouli** and **Prof. Dr. Pavol Bauer**, 
+
+  - Proposed a hybrid battery pack concept using two battery cell types to increase both energy and power densities, achieving a 15.6% weight reduction for a short-range eVTOL compared with a single-cell-type configuration.
+  - Designed the powertrain architecture of eVTOL based on the partial power processing (PPP) structure using an isolated DC/DC converter, minimizing the additional weight introduced by the hybrid battery pack integration.
+  - Validated the PPP design on an 8 kW prototype, demonstrating higher system efficiency (peak: 98.87%) and a 60% reduction in converter size.
+  - Developed a triple-phase-shift (TPS) modulation strategy for the isolated DC/DC converter (dual-active-bridge) to achieve all-switch zero voltage switching (ZVS) and reduce current stress across full voltage and load ranges.
+  - Performed hands-on measurements to validate efficiency improvements on a 6 kW prototype, achieving up to 4.2% higher efficiency compared with minimum current stress TPS, with a peak efficiency of 97.88%.
+
+  
+  - DAB converter and experiment setup
+<p align="center">
+  <img src="images/DAB Diagram.png" alt="DAB Diagram" width="35%">
+  <img src="images/DAB PPP Experiment.png" alt="DAB PPP Experiment" width="35%">
+</p>
+
+
+
 - *2023.12-2025.06*, *Battery Pack Optimization Based on an Integrated Electro-Thermal-Aging Pack Model*  
   Supervised by **Dr. Gautham Ram Chandra Mouli** and **Prof. Dr. Pavol Bauer**, in collaboration with master student **Weiming Luo**
 
@@ -155,7 +173,7 @@ In emerging fast-charging stations, DC fast chargers (DCFCs) are employed, which
   - Optimized battery pack geometry and coolant flow parameters using the ETA model, resulting in a Samsung 18650-35E liquid-cooled pack with energy densities of  227.01 Wh kg<sup>−1</sup> and 353.67 Wh L<sup>−1</sup>  at the pack level.
 
   
-  - Experiment setup
+  - ETA model and experiment setup
 <p align="center">
   <img src="images/ETA Model.png" alt="Electro-Thermal-Aging Battery Model" width="35%">
   <img src="images/Battery Exp Setup.png" alt="Experimental Setup for Battery Testing" width="35%">
