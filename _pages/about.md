@@ -170,7 +170,7 @@ In emerging fast-charging stations, DC fast chargers (DCFCs) are employed, which
 
   - Developed an electro-thermal-aging (ETA) model at both cell and pack levels to predict battery pack behavior under operational conditions for AEA.
   - Validated the proposed model in ANSYS Fluent, achieving high-fidelity thermal prediction accuracy within 0.87 ◦C during a representative AEA mission profile.
-  - Optimized battery pack geometry and coolant flow parameters using the ETA model, resulting in a Samsung 18650-35E liquid-cooled pack with energy densities of 227.01 Wh kg<sup>−1</sup> and 353.67 Wh L<sup>−1</sup> at the pack level.
+  - Optimized battery pack geometry and coolant flow parameters using the ETA model, resulting in a Samsung 18650-35E liquid-cooled pack with energy densities of 227.01 Wh kg<sup>−1</sup> and 353.67 Wh L<sup>−1</sup> at the pack level. The lifetime performance also demonstrates a 5.51% improvement in state-of-health after 180 cycles. 
 
   
   - ETA model and experiment setup for battery testing:
