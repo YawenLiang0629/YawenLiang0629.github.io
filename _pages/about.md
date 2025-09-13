@@ -166,7 +166,7 @@ In emerging fast-charging stations, DC fast chargers (DCFCs) are employed, which
 
 
 - *2023.12-2025.06*, *Battery Pack Optimization Based on an Integrated Electro-Thermal-Aging Pack Model*  
-  Supervised by **Dr. Gautham Ram Chandra Mouli** and **Prof. Dr. Pavol Bauer**, in collaboration with master student **Weiming Luo**
+  Supervised by **Dr. Gautham Ram Chandra Mouli** and **Prof. Dr. Pavol Bauer**
 
   - Developed an electro-thermal-aging (ETA) model at both cell and pack levels to predict battery pack behavior under operational conditions for AEA.
   - Validated the proposed model in ANSYS Fluent, achieving high-fidelity thermal prediction accuracy within 0.87 ◦C during a representative AEA mission profile.
