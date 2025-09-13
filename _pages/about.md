@@ -116,9 +116,9 @@ I received the B.Sc. degree in electrical engineering and automation, in 2020, f
 - *2021.09-2022.02*, Semester Project: *Investigation of Switching Loss Measurements of SiC MOSFETs*  
   Supervised by **Anliang Hu** and **Prof. Dr. Jürgen Biela**
 
-  - Modified the traditional double-pulse test circuit to enable zero-voltage switching (ZVS) turn-on evaluation
-  - Developed and implemented a ZVS control scheme using FPGA
-  - Conducted experimental measurements and analysis of switching losses
+  - Modified the traditional double-pulse test circuit to enable zero-voltage switching (ZVS) turn-on evaluation.
+  - Developed and implemented a ZVS control scheme using FPGA.
+  - Conducted experimental measurements and analysis of switching losses.
 
   
   - Experiment setup
@@ -129,10 +129,10 @@ I received the B.Sc. degree in electrical engineering and automation, in 2020, f
 - *2021.05-2021.08*, Summer Project: *Optimization Code for the Design of IPT Resonant Converters*  
   Supervised by **Dr. Francesca Grazian** and **Prof. Dr. T. Batista Soeiro**
 
-  - Modeled and analyzed a series-series (SS)-compensated inductive power transfer (IPT) resonant converter for EV wireless charging using MATLAB and LTspice
-  - Investigated soft switching behavior and developed a state-space model to assess component losses
-  - Performed system efficiency analysis under varying thermal and load conditions
-  - Validated simulation results with experimental data and identified optimal design parameters for efficiency improvement
+  - Modeled and analyzed a series-series (SS)-compensated inductive power transfer (IPT) resonant converter for EV wireless charging using MATLAB and LTspice.
+  - Investigated soft switching behavior and developed a state-space model to assess component losses.
+  - Performed system efficiency analysis under varying thermal and load conditions.
+  - Validated simulation results with experimental data and identified optimal design parameters for efficiency improvement.
 
 
 # Publications 
