@@ -157,7 +157,7 @@ In emerging fast-charging stations, DC fast chargers (DCFCs) are employed, which
   - Performed hands-on measurements to validate efficiency improvements on a 6 kW DAB prototype, achieving up to 4.2% higher efficiency compared with minimum current stress TPS, with a peak efficiency of 97.88%.
 
   
-  - DAB converter and experiment setup
+  - Circuit diagram of DAB converter and experiment setup:
 <p align="center">
   <img src="images/DAB Diagram.png" alt="DAB Diagram" width="35%">
   <img src="images/DAB PPP Experiment.png" alt="DAB PPP Experiment" width="35%">
@@ -173,7 +173,7 @@ In emerging fast-charging stations, DC fast chargers (DCFCs) are employed, which
   - Optimized battery pack geometry and coolant flow parameters using the ETA model, resulting in a Samsung 18650-35E liquid-cooled pack with energy densities of 227.01 Wh kg<sup>−1</sup> and 353.67 Wh L<sup>−1</sup> at the pack level.
 
   
-  - ETA model and experiment setup
+  - ETA model and experiment setup for battery testing:
 <p align="center">
   <img src="images/ETA Model.png" alt="Electro-Thermal-Aging Battery Model" width="35%">
   <img src="images/Battery Exp Setup.png" alt="Experimental Setup for Battery Testing" width="35%">
@@ -190,11 +190,11 @@ In emerging fast-charging stations, DC fast chargers (DCFCs) are employed, which
   - Forecasted charging demand for future AEA and eVTOL operations using real-world flight schedules.
 
   
-  - Workflow of charging demand prediction: AEA and eVTOL aircraft
+  - Workflow of charging demand prediction for AEA and eVTOL aircraft: 
   <p align="center">
   <img src="images/ChargingDemandFlow.png" alt="ChargingDemandFlow" width="60%">
   </p>
-  - Powertrain architecture for AEA and example charging demand results
+  - Powertrain architecture for AEA and example charging demand results:
 
 <p align="center">
   <img src="images/AEA Architecture.png" alt="AEA Architecture" width="35%">
