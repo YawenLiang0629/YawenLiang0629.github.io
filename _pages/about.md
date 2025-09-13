@@ -180,6 +180,27 @@ In emerging fast-charging stations, DC fast chargers (DCFCs) are employed, which
 </p>
 
 
+- *2022.07-2023.12*, *TULIPS - Innovative & More Sustainable Airports *  
+  Supervised by **Dr. Gautham Ram Chandra Mouli** and **Prof. Dr. Pavol Bauer**, 
+
+  - Reviewed charging technologies for electric aircraft, focusing on charging system architecture and converter topologies, and on battery development.
+  - Determined battery size requirements for various small all-electric aircraft (AEA) and electric vertical takeoff and landing (eVTOL) configurations.
+  - Experimentally determined electrical circuit model (ECM) parameters of Samsung 18650-35E lithium-ion cells via current pulse testing with an Arbin battery tester.
+  - Modeled battery behavior using ECM to derive charging power curves under the constant current constant voltage (CC–CV) charging strategy.
+  - Forecasted charging demand for future AEA and eVTOL operations using real-world flight schedules.
+
+  
+  - Workflow of charging demand prediction: AEA and eVTOL aircraft
+  <p align="center">
+  <img src="images/ChargingDemandFlow" alt="ChargingDemandFlow" width="60%">
+  </p>
+  - Powertrain architecture for AEA and example charging demand results
+
+<p align="center">
+  <img src="images/AEA Architecture.png" alt="AEA Architecture" width="35%">
+  <img src="images/ChargingDemand.png" alt="ChargingDemand Result" width="35%">
+</p>
+
 
 - *2021.09-2022.07*, MSc. Thesis: *IoT-Based Online Harmonic Emission Estimation of DC Fast Chargers*  
   Supervised by **Dr. Lu Wang** and **Prof. Zian Qin**
