@@ -32,7 +32,7 @@ I received the B.Sc. degree in electrical engineering and automation, in 2020, f
 
 
 # Research Experience
-- *2024.03-2025.09*, *Power Electronics Interfaces for the Powertrain Integration of Hybrid Battery Packs*  
+- *2024.03-Present*, *Power Electronics Interfaces for the Powertrain Integration of Hybrid Battery Packs*  
   Supervised by **Dr. Gautham Ram Chandra Mouli** and **Prof. Dr. Pavol Bauer**, 
 
   - Proposed a hybrid battery pack concept using two battery cell types to increase both energy and power densities, achieving a 15.6% weight reduction for a short-range eVTOL compared with a single-cell-type configuration.
