@@ -192,7 +192,7 @@ In emerging fast-charging stations, DC fast chargers (DCFCs) are employed, which
   
   - Workflow of charging demand prediction: AEA and eVTOL aircraft
   <p align="center">
-  <img src="images/ChargingDemandFlow" alt="ChargingDemandFlow" width="60%">
+  <img src="images/ChargingDemandFlow.png" alt="ChargingDemandFlow" width="60%">
   </p>
   - Powertrain architecture for AEA and example charging demand results
 
