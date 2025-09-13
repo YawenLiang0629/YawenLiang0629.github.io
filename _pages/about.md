@@ -156,14 +156,10 @@ In emerging fast-charging stations, DC fast chargers (DCFCs) are employed, which
 
   
   - Experiment setup
-<p align="left">
+<p align="center">
   <img src="images/ETA Model.png" alt="Electro-Thermal-Aging Battery Model" width="35%">
-</p>
-
-<p align="right">
   <img src="images/Battery Exp Setup.png" alt="Experimental Setup for Battery Testing" width="35%">
 </p>
-
 
 
 
