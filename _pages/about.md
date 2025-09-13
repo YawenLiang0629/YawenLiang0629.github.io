@@ -246,7 +246,7 @@ In emerging fast-charging stations, DC fast chargers (DCFCs) are employed, which
 
 
 # Educations
-- *2022.07 - 2026.01*, Ph.D., Battery and Power Electronics, Delft University of Technology, the Netherlands.
+- *2022.07 - Present*, Ph.D., Battery and Power Electronics, Delft University of Technology, the Netherlands.
    - *Topic: Towards next-generation electric flight - Battery pack design and power electronics interface*
 - *2020.09 - 2022.07*, M.Sc., Electrical Power Engineering, Delft University of Technology, the Netherlands.
    - Grade: 9.15/10.0 (cum laude)
