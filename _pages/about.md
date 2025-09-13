@@ -147,6 +147,26 @@ In emerging fast-charging stations, DC fast chargers (DCFCs) are employed, which
 
 
 # Research Experience
+- *2023.12-2025.06*, *Battery Pack Optimization Based on an Integrated Electro-Thermal-Aging Pack Model*  
+  Supervised by **Dr. Gautham Ram Chandra Mouli** and **Prof. Dr. Pavol Bauer**, in collaboration with master student **Weiming Luo**
+
+  - Developed an electro-thermal-aging (ETA) model at both cell and pack levels to predict battery pack behavior under operational conditions for AEA.
+  - Validated the proposed model in ANSYS Fluent, achieving high-fidelity thermal prediction accuracy within 0.87 ◦C during a representative AEA mission profile.
+  - Optimized battery pack geometry and coolant flow parameters using the ETA model, resulting in a Samsung 18650-35E liquid-cooled pack with energy densities of  227.01 Wh kg<sup>−1</sup> and 353.67 Wh L<sup>−1</sup>  at the pack level.
+
+  
+  - Experiment setup
+<p align="left">
+  <img src="images/ETA Model.png" alt="Electro-Thermal-Aging Battery Model" width="50%">
+</p>
+
+<p align="right">
+  <img src="images/Battery Exp Setup.png" alt="Experimental Setup for Battery Testing" width="50%">
+</p>
+
+
+
+
 - *2021.09-2022.07*, MSc. Thesis: *IoT-Based Online Harmonic Emission Estimation of DC Fast Chargers*  
   Supervised by **Dr. Lu Wang** and **Prof. Zian Qin**
 
