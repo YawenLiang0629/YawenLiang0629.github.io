@@ -36,9 +36,9 @@ I received the B.Sc. degree in electrical engineering and automation, in 2020, f
   Supervised by **Dr. Gautham Ram Chandra Mouli** and **Prof. Dr. Pavol Bauer**, 
 
   - Proposed a hybrid battery pack concept using two battery cell types to increase both energy and power densities, achieving a 15.6% weight reduction for a short-range eVTOL compared with a single-cell-type configuration.
-  - Designed the powertrain architecture of eVTOL based on the partial power processing (PPP) structure using an isolated DC/DC converter, minimizing the additional weight introduced by the hybrid battery pack integration.
-  - Validated the PPP design on an 8 kW prototype, demonstrating higher system efficiency (peak: 98.87%) and a 60% reduction in converter size.
-  - Developed a triple-phase-shift (TPS) modulation strategy for the isolated DC/DC converter (dual-active-bridge, DAB) to achieve all-switch zero voltage switching (ZVS) and reduce current stress across full voltage and load ranges.
+  - Designed the powertrain architecture of eVTOL based on the partial power processing (PPP) structure and selected the dual-active-bridge (DAB) topology for the isolated DC/DC converter in the PPP structure.
+  - Validated the PPP design on an \SI{8}{\kilo\watt} prototype, achieving higher system efficiency than a full-power-rated architecture (peak: 98.87%) and a 60% reduction in converter size.
+  - Developed a triple-phase-shift (TPS) modulation strategy for the isolated DC/DC converter (dual-active-bridge, DAB) to achieve all-switch zero voltage switching (ZVS) and reduce current stress across full voltage and load ranges, further improving efficiency.
   - Performed hands-on measurements to validate efficiency improvements on a 6 kW DAB prototype, achieving up to 4.2% higher efficiency compared with minimum current stress TPS, with a peak efficiency of 97.88%.
 
   
