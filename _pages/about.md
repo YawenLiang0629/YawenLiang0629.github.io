@@ -29,6 +29,112 @@ I received the B.Sc. degree in electrical engineering and automation, in 2020, f
 - *2023.11*: &nbsp;🎉🎉 One paper is accepted by IEEE Transactions on Transportation Electrification
 - *2022.07*: &nbsp;🎉🎉 One paper is accepted by IECON 2022
 
+
+
+# Research Experience
+- *2024.03-2025.09*, *Power Electronics Interfaces for the Powertrain Integration of Hybrid Battery Packs*  
+  Supervised by **Dr. Gautham Ram Chandra Mouli** and **Prof. Dr. Pavol Bauer**, 
+
+  - Proposed a hybrid battery pack concept using two battery cell types to increase both energy and power densities, achieving a 15.6% weight reduction for a short-range eVTOL compared with a single-cell-type configuration.
+  - Designed the powertrain architecture of eVTOL based on the partial power processing (PPP) structure using an isolated DC/DC converter, minimizing the additional weight introduced by the hybrid battery pack integration.
+  - Validated the PPP design on an 8 kW prototype, demonstrating higher system efficiency (peak: 98.87%) and a 60% reduction in converter size.
+  - Developed a triple-phase-shift (TPS) modulation strategy for the isolated DC/DC converter (dual-active-bridge, DAB) to achieve all-switch zero voltage switching (ZVS) and reduce current stress across full voltage and load ranges.
+  - Performed hands-on measurements to validate efficiency improvements on a 6 kW DAB prototype, achieving up to 4.2% higher efficiency compared with minimum current stress TPS, with a peak efficiency of 97.88%.
+
+  
+  - Circuit diagram of DAB converter and experiment setup:
+<p align="center">
+  <img src="images/DAB Diagram.png" alt="DAB Diagram" width="35%">
+  <img src="images/DAB PPP Experiment.png" alt="DAB PPP Experiment" width="35%">
+</p>
+
+
+
+- *2023.12-2025.06*, *Battery Pack Optimization Based on an Integrated Electro-Thermal-Aging Pack Model*  
+  Supervised by **Dr. Gautham Ram Chandra Mouli** and **Prof. Dr. Pavol Bauer**
+
+  - Developed an electro-thermal-aging (ETA) model at both cell and pack levels to predict battery pack behavior under operational conditions for AEA.
+  - Validated the proposed model in ANSYS Fluent, achieving high-fidelity thermal prediction accuracy within 0.87 ◦C during a representative AEA mission profile.
+  - Optimized battery pack geometry and coolant flow parameters using the ETA model, resulting in a Samsung 18650-35E liquid-cooled pack with energy densities of 227.01 Wh kg<sup>−1</sup> and 353.67 Wh L<sup>−1</sup> at the pack level. The lifetime performance also demonstrates a 5.51% improvement in state-of-health after 180 cycles. 
+
+  
+  - ETA model and experiment setup for battery testing:
+<p align="center">
+  <img src="images/ETA Model.png" alt="Electro-Thermal-Aging Battery Model" width="35%">
+  <img src="images/Battery Exp Setup.png" alt="Experimental Setup for Battery Testing" width="35%">
+</p>
+
+
+- *2022.07-2023.12*, *TULIPS - Innovative & More Sustainable Airports*  
+  Supervised by **Dr. Gautham Ram Chandra Mouli** and **Prof. Dr. Pavol Bauer**, 
+
+  - Reviewed charging technologies for electric aircraft, focusing on charging system architecture and converter topologies, and on battery development.
+  - Determined battery size requirements for various small all-electric aircraft (AEA) and electric vertical takeoff and landing (eVTOL) configurations.
+  - Experimentally determined electrical circuit model (ECM) parameters of Samsung 18650-35E lithium-ion cells via current pulse testing with an Arbin battery tester.
+  - Modeled battery behavior using ECM to derive charging power curves under the constant current constant voltage (CC–CV) charging strategy.
+  - Forecasted charging demand for future AEA and eVTOL operations using real-world flight schedules.
+
+  
+  - Workflow of charging demand prediction for AEA and eVTOL aircraft: 
+  <p align="center">
+  <img src="images/ChargingDemandFlow.png" alt="ChargingDemandFlow" width="60%">
+  </p>
+  - Powertrain architecture for AEA and example charging demand results:
+
+<p align="center">
+  <img src="images/AEA Architecture.png" alt="AEA Architecture" width="35%">
+  <img src="images/ChargingDemand.png" alt="ChargingDemand Result" width="35%">
+</p>
+
+
+- *2021.09-2022.07*, MSc. Thesis: *IoT-Based Online Harmonic Emission Estimation of DC Fast Chargers*  
+  Supervised by **Dr. Lu Wang** and **Prof. Zian Qin**
+
+  - Developed a harmonic emission model for two-level active front-end EV chargers used in DC fast-charging stations.
+  - Validated the proposed model through simulation and experiment.
+  - Built an IoT platform for harmonic calculation supporting device-to-cloud communication, including a front-end interface and a back-end for data handling and messaging.
+  
+  - IoT platform demonstration video:
+  
+  <div style="margin-top: 10px; text-align: center;">
+    <video width="60%" controls>
+      <source src="images/IoTplatform.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+  </div>
+
+
+
+  - Experiment setup
+  <p align="center">
+  <img src="images/ExperimentSetup_TUD.png" alt="Experimental Setup at TU Delft" width="60%">
+  </p>
+
+
+
+
+- *2021.09-2022.02*, Semester Project: *Investigation of Switching Loss Measurements of SiC MOSFETs*  
+  Supervised by **Anliang Hu** and **Prof. Dr. Jürgen Biela**
+
+  - Modified the traditional double-pulse test circuit to enable zero-voltage switching (ZVS) turn-on evaluation
+  - Developed and implemented a ZVS control scheme using FPGA
+  - Conducted experimental measurements and analysis of switching losses
+
+  
+  - Experiment setup
+<p align="center">
+  <img src="images/ExperimentSetup_ETHz.png" alt="Experimental Setup at ETH Zürich" width="60%">
+</p>
+
+- *2021.05-2021.08*, Summer Project: *Optimization Code for the Design of IPT Resonant Converters*  
+  Supervised by **Dr. Francesca Grazian** and **Prof. Dr. T. Batista Soeiro**
+
+  - Modeled and analyzed a series-series (SS)-compensated inductive power transfer (IPT) resonant converter for EV wireless charging using MATLAB and LTspice
+  - Investigated soft switching behavior and developed a state-space model to assess component losses
+  - Performed system efficiency analysis under varying thermal and load conditions
+  - Validated simulation results with experimental data and identified optimal design parameters for efficiency improvement
+
+
 # Publications 
 
 
@@ -139,129 +245,6 @@ In emerging fast-charging stations, DC fast chargers (DCFCs) are employed, which
 
 
 
-
-
-
-
-
-
-
-# Research Experience
-- *2024.03-2025.09*, *Power Electronics Interfaces for the Powertrain Integration of Hybrid Battery Packs*  
-  Supervised by **Dr. Gautham Ram Chandra Mouli** and **Prof. Dr. Pavol Bauer**, 
-
-  - Proposed a hybrid battery pack concept using two battery cell types to increase both energy and power densities, achieving a 15.6% weight reduction for a short-range eVTOL compared with a single-cell-type configuration.
-  - Designed the powertrain architecture of eVTOL based on the partial power processing (PPP) structure using an isolated DC/DC converter, minimizing the additional weight introduced by the hybrid battery pack integration.
-  - Validated the PPP design on an 8 kW prototype, demonstrating higher system efficiency (peak: 98.87%) and a 60% reduction in converter size.
-  - Developed a triple-phase-shift (TPS) modulation strategy for the isolated DC/DC converter (dual-active-bridge, DAB) to achieve all-switch zero voltage switching (ZVS) and reduce current stress across full voltage and load ranges.
-  - Performed hands-on measurements to validate efficiency improvements on a 6 kW DAB prototype, achieving up to 4.2% higher efficiency compared with minimum current stress TPS, with a peak efficiency of 97.88%.
-
-  
-  - Circuit diagram of DAB converter and experiment setup:
-<p align="center">
-  <img src="images/DAB Diagram.png" alt="DAB Diagram" width="35%">
-  <img src="images/DAB PPP Experiment.png" alt="DAB PPP Experiment" width="35%">
-</p>
-
-
-
-- *2023.12-2025.06*, *Battery Pack Optimization Based on an Integrated Electro-Thermal-Aging Pack Model*  
-  Supervised by **Dr. Gautham Ram Chandra Mouli** and **Prof. Dr. Pavol Bauer**
-
-  - Developed an electro-thermal-aging (ETA) model at both cell and pack levels to predict battery pack behavior under operational conditions for AEA.
-  - Validated the proposed model in ANSYS Fluent, achieving high-fidelity thermal prediction accuracy within 0.87 ◦C during a representative AEA mission profile.
-  - Optimized battery pack geometry and coolant flow parameters using the ETA model, resulting in a Samsung 18650-35E liquid-cooled pack with energy densities of 227.01 Wh kg<sup>−1</sup> and 353.67 Wh L<sup>−1</sup> at the pack level. The lifetime performance also demonstrates a 5.51% improvement in state-of-health after 180 cycles. 
-
-  
-  - ETA model and experiment setup for battery testing:
-<p align="center">
-  <img src="images/ETA Model.png" alt="Electro-Thermal-Aging Battery Model" width="35%">
-  <img src="images/Battery Exp Setup.png" alt="Experimental Setup for Battery Testing" width="35%">
-</p>
-
-
-- *2022.07-2023.12*, *TULIPS - Innovative & More Sustainable Airports *  
-  Supervised by **Dr. Gautham Ram Chandra Mouli** and **Prof. Dr. Pavol Bauer**, 
-
-  - Reviewed charging technologies for electric aircraft, focusing on charging system architecture and converter topologies, and on battery development.
-  - Determined battery size requirements for various small all-electric aircraft (AEA) and electric vertical takeoff and landing (eVTOL) configurations.
-  - Experimentally determined electrical circuit model (ECM) parameters of Samsung 18650-35E lithium-ion cells via current pulse testing with an Arbin battery tester.
-  - Modeled battery behavior using ECM to derive charging power curves under the constant current constant voltage (CC–CV) charging strategy.
-  - Forecasted charging demand for future AEA and eVTOL operations using real-world flight schedules.
-
-  
-  - Workflow of charging demand prediction for AEA and eVTOL aircraft: 
-  <p align="center">
-  <img src="images/ChargingDemandFlow.png" alt="ChargingDemandFlow" width="60%">
-  </p>
-  - Powertrain architecture for AEA and example charging demand results:
-
-<p align="center">
-  <img src="images/AEA Architecture.png" alt="AEA Architecture" width="35%">
-  <img src="images/ChargingDemand.png" alt="ChargingDemand Result" width="35%">
-</p>
-
-
-- *2021.09-2022.07*, MSc. Thesis: *IoT-Based Online Harmonic Emission Estimation of DC Fast Chargers*  
-  Supervised by **Dr. Lu Wang** and **Prof. Zian Qin**
-
-  - Developed a harmonic emission model for two-level active front-end EV chargers used in DC fast-charging stations.
-  - Validated the proposed model through simulation and experiment.
-  - Built an IoT platform for harmonic calculation supporting device-to-cloud communication, including a front-end interface and a back-end for data handling and messaging.
-  
-  - IoT platform demonstration video:
-  
-  <div style="margin-top: 10px; text-align: center;">
-    <video width="60%" controls>
-      <source src="images/IoTplatform.mp4" type="video/mp4">
-      Your browser does not support the video tag.
-    </video>
-  </div>
-
-
-
-  - Experiment setup
-  <p align="center">
-  <img src="images/ExperimentSetup_TUD.png" alt="Experimental Setup at TU Delft" width="60%">
-  </p>
-
-
-
-
-- *2021.09-2022.02*, Semester Project: *Investigation of Switching Loss Measurements of SiC MOSFETs*  
-  Supervised by **Anliang Hu** and **Prof. Dr. Jürgen Biela**
-
-  - Modified the traditional double-pulse test circuit to enable zero-voltage switching (ZVS) turn-on evaluation
-  - Developed and implemented a ZVS control scheme using FPGA
-  - Conducted experimental measurements and analysis of switching losses
-
-  
-  - Experiment setup
-<p align="center">
-  <img src="images/ExperimentSetup_ETHz.png" alt="Experimental Setup at ETH Zürich" width="60%">
-</p>
-
-- *2021.05-2021.08*, Summer Project: *Optimization Code for the Design of IPT Resonant Converters*  
-  Supervised by **Dr. Francesca Grazian** and **Prof. Dr. T. Batista Soeiro**
-
-  - Modeled and analyzed a series-series (SS)-compensated inductive power transfer (IPT) resonant converter for EV wireless charging using MATLAB and LTspice
-  - Investigated soft switching behavior and developed a state-space model to assess component losses
-  - Performed system efficiency analysis under varying thermal and load conditions
-  - Validated simulation results with experimental data and identified optimal design parameters for efficiency improvement
-
-
-# Honors and Awards
-- *2025.06* 2nd Place, IEEE ITEC+EATS Student Design Competition: Design the high voltage/high-power distribution system for a regional (90 passenger) fully electric aircraft 
-- *2025.02* 3rd Place, [IEEE VTS Challenge](https://vtsociety.org/membership/call-ideas-innovations-vehicle-propulsion-technologies-address-climate-change): Innovations in vehicle propulsion technologies to address climate change.
-
-  - *Reconfigurable Hybrid Battery Pack for Future Electric Aircraft: Integrating High-Specific-Energy and Power Battery Types*
-
-- *2019.11*  Ultra High Voltage Scholarship, China
-- *2019.10*  Outstanding graduate, Sichuan University
-- *2018.11*  National Scholarship, China 
-- *2017.11*  National Scholarship, China 
-
-
 # Educations
 - *2022.07 - 2026.01*, Ph.D., Battery and Power Electronics, Delft University of Technology, the Netherlands.
    - *Topic: Towards next-generation electric flight - Battery pack design and power electronics interface*
@@ -274,4 +257,14 @@ In emerging fast-charging stations, DC fast chargers (DCFCs) are employed, which
    - Grade: 90.31/100 (outstanding graduate)
    - *Thesis: Research on the photovoltaic grid-connected control strategy*
 
+# Honors and Awards
+- *2025.06* 2nd Place, IEEE ITEC+EATS Student Design Competition: Design the high voltage/high-power distribution system for a regional (90 passenger) fully electric aircraft 
+- *2025.02* 3rd Place, [IEEE VTS Challenge](https://vtsociety.org/membership/call-ideas-innovations-vehicle-propulsion-technologies-address-climate-change): Innovations in vehicle propulsion technologies to address climate change.
+
+  - *Reconfigurable Hybrid Battery Pack for Future Electric Aircraft: Integrating High-Specific-Energy and Power Battery Types*
+
+- *2019.11*  Ultra High Voltage Scholarship, China
+- *2019.10*  Outstanding graduate, Sichuan University
+- *2018.11*  National Scholarship, China 
+- *2017.11*  National Scholarship, China 
 
