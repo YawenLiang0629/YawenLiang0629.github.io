@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Ph.D. candidate in power electronics and battery systems with a focus on electric aircraft applications. Experienced in hands-on development of experimental platforms, design and optimization of high-efficiency DC/DC converters, impedance-based harmonic analysis of grid-connected rectifiers, and battery modeling and testing covering electrical, thermal, and aging aspects at both cell and pack levels.
+Ph.D. candidate in power electronics and battery systems with a focus on electric aircraft applications. Experienced in hands-on development of experimental platforms, design and optimization of high-efficiency DC/DC converters, impedance-based harmonic analysis of grid-connected rectifiers, and battery modeling and testing covering electrical, thermal, and aging aspects at both cell and pack levels. Supervised three master’s theses, strengthening my abilities in research mentoring, project management, and critical thinking.
 
 
 
@@ -45,7 +45,7 @@ Ph.D. candidate in power electronics and battery systems with a focus on electri
    - Built and experimentally validated efficiency improvements on a SiC MOSFET-based 6 kW DAB prototype under varying voltage and load conditions, achieving up to 4.2% higher efficiency compared with minimum current stress TPS, with a peak efficiency of 98.43%.
    - Performed analytical loss breakdown calculations and compared the results with measured efficiency
     
-  - Circuit diagram of DAB converter and experiment setup:
+   - Circuit diagram of DAB converter and experiment setup:
 <p align="center">
   <img src="images/DAB Diagram.png" alt="DAB Diagram" width="35%">
   <img src="images/DAB PPP Experiment.png" alt="DAB PPP Experiment" width="35%">
