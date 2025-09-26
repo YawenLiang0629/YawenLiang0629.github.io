@@ -40,11 +40,10 @@ Ph.D. candidate in power electronics and battery systems with a focus on electri
   - Validated the PPP design on an 8 kW prototype, achieving higher system efficiency than a full-power-rated architecture (peak: 98.87%) and a 60% reduction in converter size.
 
  - *2023.12-Present*, *ZVS- and Current-Stress-Optimized Modulation for Dual-Active-Bridge Converters*  
-  Supervised by **Dr. Gautham Ram Chandra Mouli** and **Prof. Dr. Pavol Bauer**, 
-
-  - Developed a triple-phase-shift (TPS) modulation strategy for the dual-active-bridge (DAB) to achieve all-switch zero voltage switching (ZVS) and reduce current stress across full voltage and load ranges, to improve efficiency.
-  - Built and experimentally validated efficiency improvements on a SiC MOSFET-based 6 kW DAB prototype under varying voltage and load conditions, achieving up to 4.2% higher efficiency compared with minimum current stress TPS, with a peak efficiency of 98.43%.
-  - Performed analytical loss breakdown calculations and compared the results with measured efficiency
+  Supervised by **Dr. Gautham Ram Chandra Mouli** and **Prof. Dr. Pavol Bauer**,
+   - Developed a triple-phase-shift (TPS) modulation strategy for the dual-active-bridge (DAB) to achieve all-switch zero voltage switching (ZVS) and reduce current stress across full voltage and load ranges, to improve efficiency.
+   - Built and experimentally validated efficiency improvements on a SiC MOSFET-based 6 kW DAB prototype under varying voltage and load conditions, achieving up to 4.2% higher efficiency compared with minimum current stress TPS, with a peak efficiency of 98.43%.
+   - Performed analytical loss breakdown calculations and compared the results with measured efficiency
     
   - Circuit diagram of DAB converter and experiment setup:
 <p align="center">
