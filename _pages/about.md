@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I received the B.Sc. degree in electrical engineering and automation, in 2020, from Sichuan University, Chengdu, China, and the M.Sc. (cum laude) degree in electrical power engineering, in 2022, from the Delft University of Technology, Delft, the Netherlands, where I am currently working toward the Ph.D. degree in electrical engineering with DC Systems, Energy Conversion and Storage (DCE&S) group. My research interests include battery systems and the power electronics interface for electric aircraft.
+Ph.D. candidate in power electronics and battery systems with a focus on electric aircraft applications. Experienced in hands-on development of experimental platforms, design and optimization of high-efficiency DC/DC converters, impedance-based harmonic analysis of grid-connected rectifiers, and battery modeling and testing covering electrical, thermal, and aging aspects at both cell and pack levels.
 
 
 
@@ -32,16 +32,20 @@ I received the B.Sc. degree in electrical engineering and automation, in 2020, f
 
 
 # Research Experience
-- *2024.03-Present*, *Power Electronics Interfaces for the Powertrain Integration of Hybrid Battery Packs*  
+- *2023.12-Present*, *Power Electronics Interfaces for the Powertrain Integration of Hybrid Battery Packs*  
   Supervised by **Dr. Gautham Ram Chandra Mouli** and **Prof. Dr. Pavol Bauer**, 
 
-  - Proposed a hybrid battery pack concept using two battery cell types to increase both energy and power densities, achieving a 15.6% weight reduction for a short-range eVTOL compared with a single-cell-type configuration.
-  - Designed the powertrain architecture of eVTOL based on the partial power processing (PPP) structure and selected the dual-active-bridge (DAB) topology for the isolated DC/DC converter in the PPP structure.
-  - Validated the PPP design on an \SI{8}{\kilo\watt} prototype, achieving higher system efficiency than a full-power-rated architecture (peak: 98.87%) and a 60% reduction in converter size.
-  - Developed a triple-phase-shift (TPS) modulation strategy for the isolated DC/DC converter (dual-active-bridge, DAB) to achieve all-switch zero voltage switching (ZVS) and reduce current stress across full voltage and load ranges, further improving efficiency.
-  - Performed hands-on measurements to validate efficiency improvements on a 6 kW DAB prototype, achieving up to 4.2% higher efficiency compared with minimum current stress TPS, with a peak efficiency of 97.88%.
+  - Proposed a hybrid battery pack concept using two battery cell types to increase both energy and power densities, achieving a 15.6% weight reduction for a short-range electric vertical takeoff and landing (eVTOL) compared with a single-cell-type design.
+  - Designed the eVTOL powertrain architecture using a partial power processing (PPP) structure. Compared multiple topologies and selected the DAB topology for the isolated DC/DC converter in the PPP structure.
+  - Validated the PPP design on an 8 kW prototype, achieving higher system efficiency than a full-power-rated architecture (peak: 98.87%) and a 60% reduction in converter size.
 
-  
+ - *2023.12-Present*, *ZVS- and Current-Stress-Optimized Modulation for Dual-Active-Bridge Converters*  
+  Supervised by **Dr. Gautham Ram Chandra Mouli** and **Prof. Dr. Pavol Bauer**, 
+
+  - Developed a triple-phase-shift (TPS) modulation strategy for the dual-active-bridge (DAB) to achieve all-switch zero voltage switching (ZVS) and reduce current stress across full voltage and load ranges, to improve efficiency.
+  - Built and experimentally validated efficiency improvements on a SiC MOSFET-based 6 kW DAB prototype under varying voltage and load conditions, achieving up to 4.2% higher efficiency compared with minimum current stress TPS, with a peak efficiency of 98.43%.
+  - Performed analytical loss breakdown calculations and compared the results with measured efficiency
+    
   - Circuit diagram of DAB converter and experiment setup:
 <p align="center">
   <img src="images/DAB Diagram.png" alt="DAB Diagram" width="35%">
@@ -50,7 +54,7 @@ I received the B.Sc. degree in electrical engineering and automation, in 2020, f
 
 
 
-- *2023.12-2025.06*, *Battery Pack Optimization Based on an Integrated Electro-Thermal-Aging Pack Model*  
+- *2023.12-2024.04*, *Battery Pack Optimization Based on an Integrated Electro-Thermal-Aging Pack Model*  
   Supervised by **Dr. Gautham Ram Chandra Mouli** and **Prof. Dr. Pavol Bauer**
 
   - Developed an electro-thermal-aging (ETA) model at both cell and pack levels to predict battery pack behavior under operational conditions for AEA.
@@ -90,10 +94,11 @@ I received the B.Sc. degree in electrical engineering and automation, in 2020, f
 - *2021.09-2022.07*, MSc. Thesis: *IoT-Based Online Harmonic Emission Estimation of DC Fast Chargers*  
   Supervised by **Dr. Lu Wang** and **Prof. Zian Qin**
 
-  - Developed a harmonic emission model for two-level active front-end EV chargers used in DC fast-charging stations.
-  - Validated the proposed model through simulation and experiment.
-  - Built an IoT platform for harmonic calculation supporting device-to-cloud communication, including a front-end interface and a back-end for data handling and messaging.
-  
+  - Transformed the cascaded control loop (inner current and outer voltage, PI controller) of a grid-connected three-phase two-level PWM rectifier for DC fast-charging stations into a linearized small-signal model, and simplified it to derive the rectifier’s input impedance.
+  - Modeled the current harmonic source of the PWM rectifier using Fourier series analysis, considering the modulation method and dead-time effects.
+  - Developed the harmonic emission model based on the input impedance and harmonic current source, and validated it via PLECS and experiments with a CINERGIA grid emulator and Imperix modules.
+  - Built an Internet-of-Things (IoT) platform supporting device-to-cloud communication with a front-end interface and a back-end for data handling and messaging.
+
   - IoT platform demonstration video:
   
   <div style="margin-top: 10px; text-align: center;">
