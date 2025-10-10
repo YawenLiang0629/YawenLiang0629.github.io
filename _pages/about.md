@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Ph.D. candidate in power electronics and battery systems with a focus on electric aircraft applications. Experienced in hands-on development of experimental platforms, design and optimization of high-efficiency DC/DC converters, impedance-based harmonic analysis of grid-connected rectifiers, and battery modeling and testing covering electrical, thermal, and aging aspects at both cell and pack levels. Supervised three master’s theses, strengthening my abilities in research mentoring, project management, and critical thinking.
+Ph.D. candidate in power electronics and battery systems, focusing on electric aircraft applications. Experienced in hands-on development of experimental platforms; the design and optimization of high-efficiency power converters; impedance-based harmonic analysis of grid-connected rectifiers; power-semiconductor device characterization; and battery modeling and testing (electrical, thermal, and aging) at both the cell and pack levels.
 
 
 
