@@ -50,40 +50,17 @@ Ph.D. candidate in power electronics and battery systems, focusing on electric a
 
 
 
-- *2023.12-2024.04*, *Battery Pack Optimization Based on an Integrated Electro-Thermal-Aging Pack Model*  
+- *2022.07-2024.04*, *Battery Pack Optimization Based on an Integrated Electro-Thermal-Aging Pack Model*  
   Supervised by **Dr. Gautham Ram Chandra Mouli** and **Prof. Dr. Pavol Bauer**
 
-  - Developed an electro-thermal-aging (ETA) model at both cell and pack levels to predict battery pack behavior under operational conditions for AEA.
-  - Validated the proposed model in ANSYS Fluent, achieving high-fidelity thermal prediction accuracy within 0.87 ◦C during a representative AEA mission profile.
-  - Optimized battery pack geometry and coolant flow parameters using the ETA model, resulting in a Samsung 18650-35E liquid-cooled pack with energy densities of 227.01 Wh kg<sup>−1</sup> and 353.67 Wh L<sup>−1</sup> at the pack level. The lifetime performance also demonstrates a 5.51% improvement in state-of-health after 180 cycles. 
-
-  
+  - Experimentally determined the electrical circuit model (ECM) parameters of Samsung 18650-35E lithium-ion cells under different state-of-charge levels, temperatures, C-rates, and aging states using current pulse testing with an Arbin battery tester.
+  - Developed an electro-thermal-aging (ETA) model at both cell and pack levels to predict battery pack behavior under operational conditions for all-electric aircraft (AEA).  
+  - Validated the proposed model through experiments and ANSYS Fluent simulation, achieving thermal prediction accuracy within 0.87 ◦C  for a representative AEA mission profile at the pack level. 
+  - Optimized battery pack geometry and coolant flow parameters using the ETA model, resulting in a Samsung 18650-35E liquid-cooled pack with energy densities of 227.01 Wh kg<sup>−1</sup> and 353.67 Wh L<sup>−1</sup> at the pack level. Achieved a 5.51% state-of-health improvement after 180 cycles.
   - ETA model and experiment setup for battery testing:
 <p align="center">
   <img src="images/ETA Model.png" alt="Electro-Thermal-Aging Battery Model" width="35%">
   <img src="images/Battery Exp Setup.png" alt="Experimental Setup for Battery Testing" width="35%">
-</p>
-
-
-- *2022.07-2023.12*, *TULIPS - Innovative & More Sustainable Airports*  
-  Supervised by **Dr. Gautham Ram Chandra Mouli** and **Prof. Dr. Pavol Bauer**, 
-
-  - Reviewed charging technologies for electric aircraft, focusing on charging system architecture and converter topologies, and on battery development.
-  - Determined battery size requirements for various small all-electric aircraft (AEA) and electric vertical takeoff and landing (eVTOL) configurations.
-  - Experimentally determined electrical circuit model (ECM) parameters of Samsung 18650-35E lithium-ion cells via current pulse testing with an Arbin battery tester.
-  - Modeled battery behavior using ECM to derive charging power curves under the constant current constant voltage (CC–CV) charging strategy.
-  - Forecasted charging demand for future AEA and eVTOL operations using real-world flight schedules.
-
-  
-  - Workflow of charging demand prediction for AEA and eVTOL aircraft: 
-  <p align="center">
-  <img src="images/ChargingDemandFlow.png" alt="ChargingDemandFlow" width="60%">
-  </p>
-  - Powertrain architecture for AEA and example charging demand results:
-
-<p align="center">
-  <img src="images/AEA Architecture.png" alt="AEA Architecture" width="35%">
-  <img src="images/ChargingDemand.png" alt="ChargingDemand Result" width="35%">
 </p>
 
 
