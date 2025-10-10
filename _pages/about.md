@@ -232,7 +232,8 @@ In emerging fast-charging stations, DC fast chargers (DCFCs) are employed, which
    - *Thesis: Research on the photovoltaic grid-connected control strategy*
 
 # Honors and Awards
-- *2025.06* 2nd Place, IEEE ITEC+EATS Student Design Competition: Design the high voltage/high-power distribution system for a regional (90 passenger) fully electric aircraft 
+- *2025.06* 2nd Place, IEEE ITEC+EATS Student Design Competition
+  - Design the high voltage/high-power distribution system for a regional (90 passenger) fully electric aircraft 
 - *2025.02* 3rd Place, [IEEE VTS Challenge](https://vtsociety.org/membership/call-ideas-innovations-vehicle-propulsion-technologies-address-climate-change): Innovations in vehicle propulsion technologies to address climate change.
 
   - *Reconfigurable Hybrid Battery Pack for Future Electric Aircraft: Integrating High-Specific-Energy and Power Battery Types*
