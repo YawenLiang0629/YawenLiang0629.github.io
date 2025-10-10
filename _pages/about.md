@@ -36,20 +36,17 @@ Ph.D. candidate in power electronics and battery systems with a focus on electri
   Supervised by **Dr. Gautham Ram Chandra Mouli** and **Prof. Dr. Pavol Bauer**, 
 
   - Proposed a hybrid battery pack concept using two battery cell types to increase both energy and power densities, achieving a 15.6% weight reduction for a short-range electric vertical takeoff and landing (eVTOL) compared with a single-cell-type design.
-  - Designed the eVTOL powertrain architecture using a partial power processing (PPP) structure. Compared multiple topologies and selected the DAB topology for the isolated DC/DC converter in the PPP structure.
-  - Validated the PPP design on an 8 kW prototype, achieving higher system efficiency than a full-power-rated architecture (peak: 98.87%) and a 60% reduction in converter size.
+  - Designed the eVTOL powertrain architecture using a partial power processing (PPP) structure. Compared multiple topologies and selected the dual-active-bridge (DAB) topology for the isolated DC/DC converter in the PPP structure.
+  - Developed a triple-phase-shift (TPS) modulation strategy for the DAB to achieve all-switch zero-voltage switching (ZVS) and reduce current stress across full voltage and load ranges to improve efficiency.
+  - Built and experimentally validated efficiency improvements on a SiC MOSFET-based 3.3 kW DAB prototype under varying voltage and load conditions of the proposed modulation, achieving up to 2.5% higher efficiency compared with minimum-current-stress TPS and a peak efficiency of 98.51%; compared experimental results with analytical loss calculations to evaluate the efficiency performance.
+  - Built and experimentally validated the PPP design on an 8 kW prototype, achieving 6.95 % higher system efficiency than a full-power-rated architecture and a 60 % reduction in converter size.
 
- - *2023.12-Present*, *ZVS- and Current-Stress-Optimized Modulation for Dual-Active-Bridge Converters*  
-  Supervised by **Dr. Gautham Ram Chandra Mouli** and **Prof. Dr. Pavol Bauer**,
-   - Developed a triple-phase-shift (TPS) modulation strategy for the dual-active-bridge (DAB) to achieve all-switch zero voltage switching (ZVS) and reduce current stress across full voltage and load ranges, to improve efficiency.
-   - Built and experimentally validated efficiency improvements on a SiC MOSFET-based 6 kW DAB prototype under varying voltage and load conditions, achieving up to 4.2% higher efficiency compared with minimum current stress TPS, with a peak efficiency of 98.43%.
-   - Performed analytical loss breakdown calculations and compared the results with measured efficiency
-    
    - Circuit diagram of DAB converter and experiment setup:
 <p align="center">
   <img src="images/DAB Diagram.png" alt="DAB Diagram" width="35%">
   <img src="images/DAB PPP Experiment.png" alt="DAB PPP Experiment" width="35%">
 </p>
+
 
 
 
@@ -120,14 +117,14 @@ Ph.D. candidate in power electronics and battery systems with a focus on electri
 - *2021.09-2022.02*, Semester Project: *Investigation of Switching Loss Measurements of SiC MOSFETs*  
   Supervised by **Anliang Hu** and **Prof. Dr. Jürgen Biela**
 
-  - Modified the traditional double-pulse test circuit to enable zero-voltage switching (ZVS) turn-on evaluation.
-  - Developed and implemented a ZVS control scheme using FPGA.
-  - Conducted experimental measurements and analysis of switching losses.
+  - Performed a step-by-step theoretical switching transition analysis, including turn-on and turn-off dynamics and parasitic effects. Modified the traditional double-pulse test circuit to enable ZVS turn-on evaluation.
+  - Developed and implemented the ZVS control scheme using an FPGA board. Analyzed the limitations of non-ideal measurement techniques in terms of bandwidth and accuracy, and conducted comparison tests to select suitable current and voltage probes.
+  - Conducted experimental measurements of switching losses and analyzed deviations with the datasheet-based analytical switching loss model.
 
 
 
 - *2021.05-2021.08*, Summer Project: *Optimization Code for the Design of IPT Resonant Converters*  
-  Supervised by **Dr. Francesca Grazian** and **Prof. Dr. T. Batista Soeiro**
+  Supervised by **Dr. Francesca Grazian** and **Prof. Dr. Thiago Batista Soeiro**
 
   - Modeled and analyzed a series-series (SS)-compensated inductive power transfer (IPT) resonant converter for EV wireless charging using MATLAB and LTspice.
   - Investigated soft switching behavior and developed a state-space model to assess component losses.
