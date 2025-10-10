@@ -124,11 +124,7 @@ Ph.D. candidate in power electronics and battery systems with a focus on electri
   - Developed and implemented a ZVS control scheme using FPGA.
   - Conducted experimental measurements and analysis of switching losses.
 
-  
-  - Experiment setup
-<p align="center">
-  <img src="images/ExperimentSetup_ETHz.png" alt="Experimental Setup at ETH Zürich" width="60%">
-</p>
+
 
 - *2021.05-2021.08*, Summer Project: *Optimization Code for the Design of IPT Resonant Converters*  
   Supervised by **Dr. Francesca Grazian** and **Prof. Dr. T. Batista Soeiro**
