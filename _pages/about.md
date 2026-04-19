@@ -22,6 +22,7 @@ Ph.D. candidate in power electronics and battery systems, focusing on electric a
 
 
 # News
+- *2026.04*: &nbsp;🎉🎉 One paper is accepted by IEEE Transactions on Transportation Electrification
 - *2025.06*: &nbsp;🎉🎉 One paper is accepted by IEEE Transactions on Transportation Electrification
 - *2025.05*: &nbsp;🎉🎉 One paper is accepted by ECCE Europe 2025
 - *2024.07*: &nbsp;🎉🎉 One paper is accepted by IEEE Transactions on Transportation Electrification
