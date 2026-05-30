@@ -36,16 +36,15 @@ Ph.D. candidate in power electronics and battery systems, focusing on electric a
 - *2023.12-Present*, *Power Electronics Interfaces for the Powertrain Integration of Hybrid Battery Packs*  
   Supervised by **Dr. Gautham Ram Chandra Mouli** and **Prof. Dr. Pavol Bauer**, 
 
-  - Proposed a hybrid battery pack concept using two battery cell types to increase both energy and power densities, achieving a 15.6% weight reduction for a short-range electric vertical takeoff and landing (eVTOL) compared with a single-cell-type design.
-  - Designed the eVTOL powertrain architecture using a partial power processing (PPP) structure. Compared multiple topologies and selected the dual-active-bridge (DAB) topology for the isolated DC/DC converter in the PPP structure.
-  - Developed a triple-phase-shift (TPS) modulation strategy for the DAB to achieve all-switch zero-voltage switching (ZVS) and reduce current stress across full voltage and load ranges to improve efficiency.
-  - Built and experimentally validated efficiency improvements on a SiC MOSFET-based 3.3 kW DAB prototype under varying voltage and load conditions of the proposed modulation, achieving up to 2.5% higher efficiency compared with minimum-current-stress TPS and a peak efficiency of 98.51%; compared experimental results with analytical loss calculations to evaluate the efficiency performance.
-  - Built and experimentally validated the PPP design on an 8 kW prototype, achieving 6.95 % higher system efficiency than a full-power-rated architecture and a 60 % reduction in converter size.
+   - Proposed a hybrid battery pack concept using two cell types to increase both energy and power densities, reducing pack weight by 15.6% versus a single-cell-type design for a small electric aircraft.
+   - Designed the electric aircraft powertrain architecture using a partial-power-processing (PPP) structure; compared different isolated DC/DC converter topologies and selected the dual-active-bridge (DAB) for implementation.
+   - Developed a triple-phase-shift (TPS) modulation strategy for the DAB to achieve all-switch zero-voltage switching (ZVS) and reduce current stress across full voltage and load ranges to improve efficiency.
+   - Built and experimentally validated an 800 V, 10 kW SiC-MOSFET-based DAB prototype. Demonstrated the efficiency improvement of the proposed modulation on the DAB prototype under varying voltage and load conditions, achieving up to 2.5% higher efficiency than minimum-current-stress TPS and a peak efficiency of 98.51%; compared experimental results with analytical loss calculations to evaluate efficiency performance.
+   - Experimentally validated the PPP structure on the same prototype, achieving 6.95\% higher system efficiency than a full-power-rated architecture, a 60% reduction in converter size, and a peak system efficiency of 99.25%.
 
-   - Circuit diagram of DAB converter and experiment setup:
+   - DAB prototype:
 <p align="center">
-  <img src="images/DAB Diagram.png" alt="DAB Diagram" width="35%">
-  <img src="images/DAB PPP Experiment.png" alt="DAB PPP Experiment" width="35%">
+  <img src="images/Experiment Setup Zoomin.png" alt="DAB prototype" width="35%">
 </p>
 
 
