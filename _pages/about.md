@@ -44,7 +44,7 @@ Ph.D. candidate in power electronics and battery systems, focusing on electric a
 
    - DAB prototype:
 <p align="center">
-  <img src="images/Experiment Setup Zoomin.png" alt="DAB prototype" width="35%">
+  <img src="images/Experiment Setup Zoomin.png" alt="DAB prototype" width="50%">
 </p>
 
 
